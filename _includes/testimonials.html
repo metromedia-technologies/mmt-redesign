@@ -1,0 +1,19 @@
+<section class="testimonials">
+  <div class="container cf">
+    {% for testimonial in site.data.testimonials %}
+    <div class="col">
+      <div class="testimonial">
+        <div class="testimonial__icon">
+          <img src="assets/img/quote-icon.svg" alt="">
+        </div>
+        <p class="testimonial__body">
+          {{ testimonial.body }}
+        </p>
+        <span class="testimonial__name">
+          {{ testimonial.name }}
+        </span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
