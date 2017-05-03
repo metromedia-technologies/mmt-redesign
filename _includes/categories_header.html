@@ -1,0 +1,38 @@
+<div class="mobile-nav__container">
+  <div class="mobile-nav">
+    <div class="mobile-nav__close-btn"></div>
+    <ul class="mobile-nav__list">
+      <li class="mobile-nav__item"><a href="#">work</a></li>
+      <li class="mobile-nav__item"><a href="#">about</a></li>
+      <li class="mobile-nav__item"><a href="#">upload artwork</a></li>
+      <li class="mobile-nav__item"><a href="#">login</a></li>
+    </ul>
+  </div>
+</div>
+<header class="header">
+  <div class="header__main">
+    <div class="container">
+      <div class="logo">
+        {% img 'MMT_logo.svg' alt:'MMT' %}
+      </div>
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item"><a href="#">work</a></li>
+          <li class="nav__item"><a href="#">about</a></li>
+          <li class="nav__item"><a href="#">upload artwork</a></li>
+          <li class="nav__item"><a class="link__btn--small" href="#">login</a></li>
+        </ul>
+        <div class="nav__mobile-toggle"></div>
+      </nav>
+    </div>
+  </div>
+  <div class="header__sub">
+    <div class="container">
+      <ul>
+        {% for category in site.data.categories %}
+        <li><a href="{{category.link}}">{{category.name}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</header>

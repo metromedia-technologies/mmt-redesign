@@ -20,7 +20,8 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-assets"
    gem "jekyll-autoprefixer"
-   gem 'jekyll-babel'
+   gem "sprockets-es6"
+  #  gem 'jekyll-babel'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
