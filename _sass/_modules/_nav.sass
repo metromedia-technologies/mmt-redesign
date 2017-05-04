@@ -25,7 +25,7 @@
       color: white
 
   &__mobile-toggle
-    background: url(asset_path("mobile-nav_icon.png")) no-repeat
+    background: url('../img/mobile-nav_icon.png') no-repeat
     cursor: pointer
     display: none
     height: 20px
@@ -64,6 +64,7 @@
   box-shadow: 0 50px 100px rgba(50, 50, 93, .1), 0 15px 35px rgba(50, 50, 93, .15), 0 5px 15px rgba(0, 0, 0, .1)
   height: 100%
   opacity: 0
+  overflow: hidden
   transform: rotate3d(1,1,0,-15deg)
   transition: all .15s
   transform-origin: 100% 0
@@ -73,18 +74,41 @@
     display: block
 
   &__list
+    font:
+      size: 20px
     margin: 0
-    padding: 20px
+    padding: 20px 15px 10px 15px
+
+    h3
+      color: $color-complement
+      font:
+        size: 16px
+      margin-top: 0
+      text-transform: uppercase
 
     a
       color: $rgba-grey-dark
+      line-height: 30px
+      text-transform: capitalize
 
   &__item
+    display: flex
     list-style-type: none
     margin-bottom: 15px
 
+  &__icon
+    border-radius: 10px
+    display: inline-block
+    height: 30px
+    margin-right: 10px
+    width: 30px
+
+    img
+      height: 100%
+      width: 100%
+
   &__close-btn
-    background: url(asset_path("mobile-nav_close.png")) no-repeat
+    background: url('../img/mobile-nav_close.png') no-repeat
     cursor: pointer
     height: 18px
     position: absolute
@@ -96,3 +120,29 @@
     opacity: 1
     pointer-events: auto
     transform: none
+
+.categories-nav
+  border-top: 2px solid rgba($rgba-grey-dark, 0.04)
+  font:
+    size: 14px
+
+  a
+    line-height: normal
+
+.mobile-login
+  background: rgba($rgba-grey-dark, 0.04)
+  color: $rgba-grey-dark
+  display: block
+  padding: 20px 15px
+  text-transform: capitalize
+  width: 100%
+
+
+#work-link
+  color: #008FDF
+
+#about-link
+  color: #008FDF
+
+#upload-link
+  color: #008FDF

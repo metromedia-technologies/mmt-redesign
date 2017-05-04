@@ -4,6 +4,9 @@
   position: relative
   width: 100%
 
+  @media(max-width: 670px)
+    height: 70px
+
   &__main
     background: $rgba-grey-dark
     height: 70px
@@ -44,3 +47,6 @@
 
       &:last-child
         margin: 0 0 0 10px
+
+    @media(max-width: 670px)
+      display: none
