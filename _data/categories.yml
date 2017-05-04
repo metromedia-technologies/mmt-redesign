@@ -1,23 +1,23 @@
 - id: vehicle
   name: vehicle
-  link: /vehicle
+  link: ./vehicle
 
 - id: building
   name: building
-  link: /building
+  link: ./building
 
 - id: bulletin
   name: bulletin
-  link: /bulletin
+  link: ./bulletin
 
 - id: sports
   name: event
-  link: /event
+  link: ./event
 
 - id: prop
   name: prop
-  link: /prop
+  link: ./prop
 
 - id: day-night
   name: day/night
-  link: /day-night
+  link: ./day-night

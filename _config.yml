@@ -35,7 +35,7 @@ gems:
   - jekyll-feed
   - jekyll-assets
   - jekyll-autoprefixer
-  # - jekyll-babel
+  - jekyll-babel
 
 exclude:
   - Gemfile
@@ -43,24 +43,15 @@ exclude:
   - npm-debug.log
 
 sass:
-  # sass_dir:          _sass
+  sass_dir:          _sass
   style:            :compressed
 
 
 assets:
-  dirname: assets
-  baseurl: /assets/
   autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
-
-  sources:
-    - _assets/css
-    - _assets/fonts
-    - _assets/img
-    - _assets/js
-    - _assets/video
 
 exclude: [
   'node_modules',

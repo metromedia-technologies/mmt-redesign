@@ -12,8 +12,8 @@
 <header class="header">
   <div class="header__main">
     <div class="container">
-      <a class="logo" href="/">
-        {% img 'MMT_logo.svg' alt:'MMT' %}
+      <a class="logo" href="./index.html">
+        <img src="assets/img/MMT_logo.svg" alt="MMT">
       </a>
       <nav class="nav">
         <ul class="nav__list">
@@ -30,7 +30,7 @@
     <div class="container">
       <ul>
         {% for category in site.data.categories %}
-        <li><a href="{{category.link}}">{{category.name}}</a></li>
+        <li><a href="{{category.link}}.html">{{category.name}}</a></li>
         {% endfor %}
       </ul>
     </div>
