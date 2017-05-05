@@ -33,9 +33,13 @@ github_username:  sams-joseph
 markdown: kramdown
 gems:
   - jekyll-feed
-  - jekyll-assets
+  # - jekyll-assets
   - jekyll-autoprefixer
   - jekyll-babel
+
+autoprefixer:
+  browsers:
+  - last 4 versions
 
 exclude:
   - Gemfile
@@ -47,11 +51,13 @@ sass:
   style:            :compressed
 
 
-assets:
-  autoprefixer:
-    browsers:
-      - "last 2 versions"
-      - "IE > 9"
+# assets:
+#   autoprefixer:
+#     browsers:
+#       - "last 2 versions"
+#       - "IE > 9"
+#       - "Safari > 5"
+#       - "iOS > 5"
 
 exclude: [
   'node_modules',
