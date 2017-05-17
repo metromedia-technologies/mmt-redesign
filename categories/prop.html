@@ -1,0 +1,72 @@
+---
+layout: category
+title: Prop
+headline: some headline
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+showcase: https://source.unsplash.com/random
+permalink: /categories/prop/
+---
+
+<section class="category-showcase">
+  <div class="container flex">
+    <div class="category-details">
+      <div class="detail__lockup">
+        <h2>{{page.title}}</h2>
+        <h1>{{page.headline}}</h1>
+        <p>{{page.description}}</p>
+      </div>
+    </div>
+    <div class="category-hero">
+      {% for post in site.categories.prop limit:1 %}
+        <a style="background-image: url({{ post.img }});" class="product__link" href="{{ post.url }}">
+          <div class="product__details">
+            <div class="product__lockup">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.description }}</p>
+            </div>
+          </div>
+        </a>
+    </div>
+    <div class="product__details--mobile">
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="category-thumbnails">
+  <div class="container">
+      {% for post in site.categories.prop offset:1 %}
+        {% assign mod = forloop.index | modulo:3 %}
+        {% if mod == 1 or forloop.first %}
+          <div class="flex-row">
+        {% endif %}
+        <div class="{{ post.class }}">
+          <a style="background-image: url({{ post.img }});" class="product__link" href="{{ post.url }}">
+            <div class="product__details">
+              <div class="product__lockup">
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.description }}</p>
+              </div>
+            </div>
+          </a>
+          <div class="product__details--mobile">
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.description }}</p>
+          </div>
+        </div>
+        {% if mod == 0 or forloop.last %}
+          </div>
+        {% endif %}
+      {% endfor %}
+  </div>
+</section>
+<div class="pagination">
+  <a class="pagination__btn prev" href="{{ site.baseurl }}categories/event/">
+    <img src="{{ site.baseurl }}assets/img/prev-icon.svg" alt="">
+  </a>
+  <a class="pagination__btn next" href="{{ site.baseurl }}categories/day-night/">
+    <img src="{{ site.baseurl }}assets/img/next-icon.svg" alt="">
+  </a>
+</div>

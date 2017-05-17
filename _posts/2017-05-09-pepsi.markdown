@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Pepsi"
+date:   2017-05-09 9:10:00 -0500
+description: "Marketing Activation Campaign Super Bowl XLVIII"
+class: flex-col-2
+img: ../../assets/img/super-bowl-img1.jpg
+categories: bulletin
+---
+In preparation for Super Bowl XLVIII, held at MetLife Stadium in New Jersey, Metromedia Technologies partnered with Pepsi to take over New York City.
+
+![image](../../assets/img/super-bowl-img2.jpg "some image")
+
+MMT Produced a variety of outdoor ads including building wraps, banners, and billboards.
+
+![image](../../assets/img/super-bowl-img3.jpg "some image")
+
+![image](../../assets/img/super-bowl-img4.jpg "some image")

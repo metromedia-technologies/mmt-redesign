@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "FOX 24"
+date:   2017-05-07 08:00:00 -0500
+description: "Double sided, backlit, bulletins."
+class: flex-col-1
+img: https://source.unsplash.com/random/200x400
+categories: vehicle
+---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

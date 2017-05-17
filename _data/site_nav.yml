@@ -1,0 +1,11 @@
+- text: work
+  url: ./#categories
+
+- text: about
+  url: ./about
+
+- text: upload artwork
+  url: http://107.191.33.30:9026/upload
+
+- text: login
+  url: http://orders.mmt.com/scripts/sweb.dll/search

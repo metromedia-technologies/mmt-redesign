@@ -1,0 +1,124 @@
+.about
+  color: $rgba-grey-dark
+  position: relative
+  width: 100%
+
+  &__dates
+    flex: 0 0 25%
+    padding: 70px 0 0 0
+    position: relative
+    z-index: 1
+    max-width: 25%
+
+    @media(max-width: 809px)
+      flex: 0 0 60px
+      max-width: 60px
+
+  &__events
+    flex: 0 0 75%
+    padding: 70px 0 70px 70px
+    position: relative
+    max-width: 75%
+
+    @media(max-width: 1009px)
+      padding: 70px 0 70px 20px
+
+    @media(max-width: 809px)
+      flex: 0 0 calc(100% - 60px)
+      max-width: calc(100% - 60px)
+
+  &__date
+    display: flex
+    justify-content: flex-end
+    margin: 0
+    padding: 0
+    position: relative
+    font:
+      size: 50px
+      weight: 100
+
+    @media(max-width: 809px)
+      display: none
+
+  &__year
+    margin-right: 70px
+    opacity: 0
+
+    @media(max-width: 1009px)
+      margin-right: 20px
+
+    @media(max-width: 809px)
+      display: none
+
+  &__heading
+    font-size: 40px
+    font-weight: 400
+    margin: 15px 0 20px 0
+    padding: 0
+    transform: translateX(30px)
+    transition: transform 1.2s
+
+    @media(max-width: 669px)
+      font-size: 32px
+
+  &__body
+    font-size: 21px
+    font-weight: 300
+    line-height: 1.58
+    margin: 0 0 20px 0
+    padding: 0
+    transform: translateX(30px)
+    transition: transform 0.8s
+
+    @media(max-width: 669px)
+      font-size: 18px
+
+.dot
+  background: $color-complement
+  border-radius: 30px
+  color: white
+  height: 60px
+  line-height: 60px
+  margin-bottom: 70px
+  text-align: center
+  width: 60px
+
+  &__date
+    display: none
+
+    @media(max-width: 809px)
+      display: inline
+
+    @media(min-width: 809px)
+      display: none
+
+.date__lockup
+  display: flex
+  justify-content: flex-end
+
+.date__line
+  background: $color-complement
+  border-top-right-radius: 5px
+  border-top-left-radius: 5px
+  display: block
+  height: 100%
+  position: absolute
+  right: 25px
+  width: 10px
+  z-index: -1
+
+.about__event-1
+  margin-bottom: 70px
+  opacity: 0
+  transform: translateX(30px)
+  transition: transform 0.5s, opacity 0.5s
+
+.about__event-2
+  margin-bottom: 70px
+  opacity: 0
+  transform: translateX(30px)
+  transition: transform 0.5s, opacity 0.5s
+
+.about--showing
+  opacity: 1
+  transform: translateX(0)
