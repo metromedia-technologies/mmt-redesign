@@ -4,7 +4,7 @@ title:  "Pepsi"
 date:   2017-05-09 9:10:00 -0500
 description: "Marketing Activation Campaign Super Bowl XLVIII"
 class: flex-col-2
-img: ../../assets/img/super-bowl-img1.jpg
+img: assets/img/super-bowl-img1.jpg
 categories: bulletin
 ---
 In preparation for Super Bowl XLVIII, held at MetLife Stadium in New Jersey, Metromedia Technologies partnered with Pepsi to take over New York City.

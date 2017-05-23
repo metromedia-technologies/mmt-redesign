@@ -1,8 +1,8 @@
 ---
 layout: category
 title: Building
-headline: some headline
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+headline: Think big
+description: Creating spectacular, eye-catching graphics that enable you to rise above the clutter.
 showcase: https://source.unsplash.com/random
 permalink: /categories/building/
 ---
@@ -18,7 +18,7 @@ permalink: /categories/building/
     </div>
     <div class="category-hero">
       {% for post in site.categories.building limit:1 %}
-        <a style="background-image: url({{ post.img }});" class="product__link" href="{{ post.url }}">
+        <a style="background-image: url({{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ post.url }}">
           <div class="product__details">
             <div class="product__lockup">
               <h3>{{ post.title }}</h3>
@@ -43,7 +43,7 @@ permalink: /categories/building/
           <div class="flex-row">
         {% endif %}
         <div class="{{ post.class }}">
-          <a style="background-image: url({{ post.img }});" class="product__link" href="{{ post.url }}">
+          <a style="background-image: url({{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ post.url }}">
             <div class="product__details">
               <div class="product__lockup">
                 <h3>{{ post.title }}</h3>
@@ -63,7 +63,7 @@ permalink: /categories/building/
   </div>
 </section>
 <div class="pagination">
-  <a class="pagination__btn prev" href="{{ site.baseurl }}categories/vehicle/">
+  <a class="pagination__btn prev" href="{{ site.baseurl }}categories/transit/">
     <img src="{{ site.baseurl }}assets/img/prev-icon.svg" alt="">
   </a>
   <a class="pagination__btn next" href="{{ site.baseurl }}categories/bulletin/">

@@ -18,7 +18,7 @@ permalink: /categories/bulletin/
     </div>
     <div class="category-hero">
       {% for post in site.categories.bulletin limit:1 %}
-        <a style="background-image: url({{ post.img }});" class="product__link" href="{{ post.url }}">
+        <a style="background-image: url({{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ post.url }}">
           <div class="product__details">
             <div class="product__lockup">
               <h3>{{ post.title }}</h3>

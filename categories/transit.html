@@ -1,9 +1,9 @@
 ---
 layout: category
-title: Vehicle
-headline: some headline
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
-permalink: /categories/vehicle/
+title: Transit
+headline: On the go
+description: Your message constantly on the go, reaching an ever changing audience.
+permalink: /categories/transit/
 ---
 
 <section class="category-showcase">
@@ -16,7 +16,7 @@ permalink: /categories/vehicle/
       </div>
     </div>
     <div class="category-hero">
-      {% for post in site.categories.vehicle limit:1 %}
+      {% for post in site.categories.transit limit:1 %}
         <a style="background-image: url({{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ site.baseurl }}{{ post.url }}">
           <div class="product__details">
             <div class="product__lockup">
@@ -36,13 +36,13 @@ permalink: /categories/vehicle/
 
 <section class="category-thumbnails">
   <div class="container">
-      {% for post in site.categories.vehicle offset:1 %}
+      {% for post in site.categories.transit offset:1 %}
         {% assign mod = forloop.index | modulo:3 %}
         {% if mod == 1 or forloop.first %}
           <div class="flex-row">
         {% endif %}
         <div class="{{ post.class }}">
-          <a style="background-image: url({{ post.img }});" class="product__link" href="{{ site.baseurl }}{{ post.url }}">
+          <a style="background-image: url({{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ site.baseurl }}{{ post.url }}">
             <div class="product__details">
               <div class="product__lockup">
                 <h3>{{ post.title }}</h3>

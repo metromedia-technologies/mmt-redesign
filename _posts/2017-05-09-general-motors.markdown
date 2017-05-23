@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Target"
+title:  "General Motors"
 date:   2017-05-09 9:10:00 -0500
 description: "Target rolled out 10 bright and colorful, fully-wrapped buses"
 class: flex-col-2
-img: assets/img/target-bus-img1.jpg
-categories: transit
+img: assets/img/gm-img1.jpg
+categories: building
 ---
 When Target cut the ribbon on its 35 redesigned stores in the Washington, DC area, it took to the streets of the nation’s capital to draw the
 attention of shoppers. The company rolled out 10 bright and colorful, fully-wrapped buses featuring stunning images of fresh fruit and, naturally,

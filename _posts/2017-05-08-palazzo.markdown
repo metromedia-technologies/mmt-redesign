@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Palazzo"
+date:   2017-05-08 09:00:00 -0500
+description: "Construction Barricades for Palazzo Las Vegas Luxury Hotel."
+class: flex-col-1
+img: assets/img/palazzo-img1.jpg
+categories: building
+---
+Vehicle graphics continue to gain traction in corporate branding and promotion with vehicle wrap advertising. Your message is constantly on the go, reaching an audience standard billboards or other outdoor advertising might not reach.
+
+![image](../../assets/img/palazzo-img2.jpg "some image")
+
+![image](../../assets/img/palazzo-img3.jpg "some image")
+
+![image](../../assets/img/palazzo-img4.jpg "some image")
