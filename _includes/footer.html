@@ -18,21 +18,11 @@
       </div>
       <a class="contact__email" href="mailto:info@mmt.com">info@mmt.com</a>
       <div class="social">
-        <a class="social__link" href="#">
-          <img src="{{ site.baseurl }}assets/img/linkedin-icon.svg" alt="linkedin">
-        </a>
-        <a class="social__link" href="#">
-          <img src="{{ site.baseurl }}assets/img/facebook-icon.svg" alt="facebook">
-        </a>
-        <a class="social__link" href="#">
-          <img src="{{ site.baseurl }}assets/img/twitter-icon.svg" alt="twitter">
-        </a>
-        <a class="social__link" href="#">
-          <img src="{{ site.baseurl }}assets/img/instagram-icon.svg" alt="instagram">
-        </a>
-        <a class="social__link" href="#">
-          <img src="{{ site.baseurl }}assets/img/youtube-icon.svg" alt="youtube">
-        </a>
+        {% for social in site.data.social %}
+          <a class="social__link" href="{{ social.url }}">
+            <img src="{{ site.baseurl }}assets/img/{{ social.icon }}" alt="{{ social.alt }}">
+          </a>
+        {% endfor %}
       </div>
     </section>
   </div>

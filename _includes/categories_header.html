@@ -39,7 +39,13 @@
       <nav class="nav">
         <ul class="nav__list">
           {% for link in site.data.site_nav %}
-            <li class="nav__item"><a {% if link.text == 'login' %}class="link__btn--small"{% endif %} href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a></li>
+            {% if link.text == 'login' %}
+              <li class="nav__item"><a class="link__btn--small" href="{{ link.url }}">{{ link.text }}</a></li>
+            {% elsif link.text == 'upload artwork' %}
+              <li class="nav__item"><a href="{{ link.url }}">{{ link.text }}</a></li>
+            {% else %}
+              <li class="nav__item"><a href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
         <div class="nav__mobile-toggle"></div>
