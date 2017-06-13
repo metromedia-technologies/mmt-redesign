@@ -1,7 +1,4 @@
----
----
-
-(($) => {
+export default (($) => {
 
 const mobileMenuBtn = $('.nav__mobile-toggle');
 const mobileMenu = $('.mobile-nav');

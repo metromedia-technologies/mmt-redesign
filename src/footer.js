@@ -1,7 +1,4 @@
----
----
-
-(($) => {
+export default (($) => {
 
 const nycBtn = $('#nyc-btn');
 const nycImage = $('#office-nyc');

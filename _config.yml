@@ -48,6 +48,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - npm-debug.log
+  - src
 
 sass:
   sass_dir:          _sass

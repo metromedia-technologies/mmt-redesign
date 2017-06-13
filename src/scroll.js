@@ -1,7 +1,4 @@
----
----
-
-(($) => {
+export default (($) => {
   const $window = $(window);
   const $hero = $('#hero');
 

@@ -1,7 +1,4 @@
----
----
-
-(($) => {
+export default (($) => {
 
 const headlineLockup = $('.headline__lockup');
 const heroCoverPhoto = $('.hero__cover-photo');

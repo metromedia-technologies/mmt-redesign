@@ -1,7 +1,4 @@
----
----
-
-(($) => {
+export default (($) => {
   const $window = $(window);
   const $date = $('.date__lockup');
   const $year = $('.about__year');

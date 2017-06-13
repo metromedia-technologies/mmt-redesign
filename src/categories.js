@@ -1,7 +1,4 @@
----
----
-
-(($) => {
+export default (($) => {
 
   const $productLink = $('.product__link');
   const $productDetails = $('.product__details');
