@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "temp": "babel _js -d assets/js/ && jekyll serve -w",
     "start": "jekyll serve -w",
-    "build": "jekyll build --destination ../metromedia-technologies.github.stage/"
+    "pack": "webpack --optimize-minimize",
+    "build": "webpack --optimize-minimize && jekyll build --destination ../metromedia-technologies.github.stage/"
   },
   "repository": {
     "type": "git",
