@@ -16,11 +16,21 @@ npm install
 ```
 
 Run dev server
+In `_config.yml` set the `baseurl`
+```
+baseurl: "/" # For Development
+```
+To start the local server run
 ```
 npm start
 ```
 
 Build production
+In `_config.yml` set the `baseurl`
+```
+baseurl: "https://metromedia-technologies.github.io/" # For Production
+```
+To build the site for deployment run
 ```
 npm run build
 ```
@@ -30,3 +40,4 @@ TODO: Describe the installation process for Jekyll and Ruby
 ## History
 
 TODO: Remove the dependency on Jquery for vanilla JS
+TODO: Add object selectors for each category product div instead of a specific classname

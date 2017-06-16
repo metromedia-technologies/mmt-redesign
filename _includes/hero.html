@@ -31,7 +31,7 @@
       <a class="mobile-login" href="http://orders.mmt.com/scripts/sweb.dll/search">login</a>
     </div>
   </div>
-  <div class="hero__cover-photo blur-hero-image"></div>
+  <div class="hero__cover-photo"></div>
   <div id="hero" class="container">
     <div class="hero__header">
       <div class="logo">
@@ -51,7 +51,7 @@
         <h1 class="headline__heading">{{ site.data.hero.heading }}</h1>
         <h3 class="headline__descript">{{ site.data.hero.body }}</h3>
         <div class="headline__play-me">
-          <svg x="0px" y="0px" viewBox="-270 372 50 50" style="enable-background:new -270 372 50 50;" width="50" height="50">
+          <svg class='video-play-btn' x="0px" y="0px" viewBox="-270 372 50 50" style="enable-background:new -270 372 50 50;" width="50" height="50">
             <g>
   	          <path fill="#ffffff" d="M-245,374c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S-257.7,374-245,374 M-245,372 c-13.8,0-25,11.2-25,25s11.2,25,25,25s25-11.2,25-25S-231.2,372-245,372L-245,372z"/>
             </g>
@@ -63,4 +63,12 @@
       </div>
     </div>
   </div>
+  <video class="hero__video-bg" id="video">
+    <source src="{{ site.baseurl }}assets/video/hero-vid.mp4" type="video/mp4"/>
+  </video>
+  <!-- <div class="video-background">
+    <div class="video-foreground">
+      <iframe id="video" src="https://www.youtube.com/embed/Wc5FbjaJmDM?controls=0&showinfo=0&rel=0&autoplay=0&loop=0&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div> -->
 </section>
