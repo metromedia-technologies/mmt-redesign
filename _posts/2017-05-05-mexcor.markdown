@@ -7,4 +7,6 @@ class: flex-col-2
 img: assets/img/mexcor-img1.jpg
 categories: transit
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Truck side advertising bolsters messages seen in other locales. This mobile mechanism extends your audience reach while bypassing any local regulations that may be in place for traditional OOH advertising.
+
+Mexcor wrapped their shipping fleet of 11 trucks. The visual repetitions created help to establish a strong and familiar brand image.

@@ -1,124 +1,117 @@
 .about
-  color: $rgba-grey-dark
+  background: white
   position: relative
   width: 100%
 
-  &__dates
-    flex: 0 0 25%
-    padding: 70px 0 0 0
-    position: relative
-    z-index: 1
-    max-width: 25%
+  &--alternate-color
+    background: #f9f9f9
 
-    @media(max-width: 809px)
-      flex: 0 0 60px
-      max-width: 60px
+  &__image
+    display: block
+    width: 100%
 
-  &__events
-    flex: 0 0 75%
-    padding: 70px 0 70px 70px
-    position: relative
-    max-width: 75%
+  &__icon
+    height: 70px
+    margin-bottom: 40px
 
-    @media(max-width: 1009px)
-      padding: 70px 0 70px 20px
+    span
+      background: $rgba-grey-dark
+      border-radius: 35px
+      color: white
+      display: block
+      font:
+        size: 40px
+        weight: 300
+      height: 70px
+      line-height: 70px
+      text-align: center
+      width: 70px
 
-    @media(max-width: 809px)
-      flex: 0 0 calc(100% - 60px)
-      max-width: calc(100% - 60px)
 
-  &__date
-    display: flex
-    justify-content: flex-end
-    margin: 0
-    padding: 0
-    position: relative
+  &__title
+    color: $rgba-grey-dark
     font:
-      size: 50px
-      weight: 100
+      weight: 300
+      size: 30px
+    margin-bottom: 10px
+    margin-top: 0
 
-    @media(max-width: 809px)
-      display: none
-
-  &__year
-    margin-right: 70px
-    opacity: 0
-
-    @media(max-width: 1009px)
-      margin-right: 20px
-
-    @media(max-width: 809px)
-      display: none
-
-  &__heading
-    font-size: 40px
-    font-weight: 400
-    margin: 15px 0 20px 0
-    padding: 0
-    transform: translateX(30px)
-    transition: transform 1.2s
-
-    @media(max-width: 669px)
-      font-size: 32px
+  &__underscore
+    background: $color-complement
+    display: block
+    height: 3px
+    margin-bottom: 40px
+    width: 30px
 
   &__body
-    font-size: 21px
-    font-weight: 300
-    line-height: 1.58
-    margin: 0 0 20px 0
-    padding: 0
-    transform: translateX(30px)
-    transition: transform 0.8s
+    color: $rgba-grey-dark
+    font:
+      size: 18px
+      weight: 300
+    line-height: 1.5
+    margin-bottom: 0
+    margin-top: 0
 
-    @media(max-width: 669px)
-      font-size: 18px
+  &__link
+    color: $rgba-grey-dark
+    display: block
+    font:
+      size: 12px
+      weight: 300
 
-.dot
-  background: $color-complement
-  border-radius: 30px
-  color: white
-  height: 60px
-  line-height: 60px
-  margin-bottom: 70px
-  text-align: center
-  width: 60px
+    a
+      color: $color-primary-4
+      text-decoration: underline
 
-  &__date
-    display: none
+.information--left
+  flex: 1 1 50%
+  padding: 70px 70px 70px 0
+  max-width: 50%
+  transition: transform 1s, opacity 1s
+  transform-origin: 50% 0%
 
-    @media(max-width: 809px)
-      display: inline
+  @media(max-width: 1040px)
+    padding: 20px 20px 20px 0
 
-    @media(min-width: 809px)
-      display: none
+  @media(max-width: 669px)
+    border-right: none
+    flex: 100%
+    padding: 40px 0 20px 0
+    max-width: 100%
 
-.date__lockup
+
+.information--right
+  flex: 1 1 50%
+  padding: 70px 0 70px 70px
+  max-width: 50%
+  transition: transform 1s .25s, opacity 1s .25s
+  transform-origin: 50% 0%
+
+  @media(max-width: 1040px)
+    padding: 20px 0 20px 20px
+
+  @media(max-width: 669px)
+    border: none
+    flex: 100%
+    padding: 20px 0 40px 0
+    max-width: 100%
+
+.information--image
+  padding: 0
+
+.about--flex
   display: flex
-  justify-content: flex-end
 
-.date__line
-  background: $color-complement
-  border-top-right-radius: 5px
-  border-top-left-radius: 5px
-  display: block
-  height: 100%
-  position: absolute
-  right: 25px
-  width: 10px
-  z-index: -1
+.flex--reverse
+  flex-wrap: wrap-reverse
 
-.about__event-1
-  margin-bottom: 70px
+.about-right--hide
   opacity: 0
-  transform: translateX(30px)
-  transition: transform 0.5s, opacity 0.5s
+  transform: rotate3d(1,0,0,15deg) translateY(-50px)
 
-.about__event-2
-  margin-bottom: 70px
+.about-left--hide
   opacity: 0
-  transform: translateX(30px)
-  transition: transform 0.5s, opacity 0.5s
+  transform: rotate3d(1,0,0,15deg) translateY(-50px)
 
-.about--showing
-  opacity: 1
-  transform: translateX(0)
+.perspective
+  perspective: 1200px

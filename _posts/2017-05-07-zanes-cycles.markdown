@@ -7,10 +7,11 @@ class: flex-col-1
 img: assets/img/zanes-img1.jpg
 categories: transit
 ---
-Advertising in the form of vehicle wraps can really get a company noticed. When Zane’s Cycles asked MMT to produce a vehicle wrap for their company, we made sure to get their company noticed with a bright orange and black design that would really *POP!*
-You would be hard pressed to find someone who DIDN’T see this car cruising down the street in style.
+Vehicle wraps get your company noticed. Generate thousands of visual impressions daily and boost your brand awareness.
 
 ![image](../../assets/img/zanes-img2.jpg "some image")
+
+When Zane’s Cycles asked MMT to produce a vehicle wrap for their company, we made sure to get their company noticed with a bright orange and black design that would really POP!
 
 ![image](../../assets/img/zanes-img3.jpg "some image")
 

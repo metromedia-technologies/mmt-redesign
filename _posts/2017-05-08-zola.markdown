@@ -7,7 +7,7 @@ class: flex-col-1
 img: assets/img/zola-img3.jpg
 categories: transit
 ---
-Vehicle graphics continue to gain traction in corporate branding and promotion with vehicle wrap advertising. Your message is constantly on the go, reaching an audience standard billboards or other outdoor advertising might not reach.
+Vehicle graphics continue to gain traction in corporate branding and promotion. People are on the move 24/7. Keep your brand message on the go too. Reach the masses on the road and achieve powerful brand reinforcement with customized vehicle graphics
 
 ![image](../../assets/img/zola-img1.jpg "some image")
 

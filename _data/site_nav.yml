@@ -1,5 +1,5 @@
 - text: work
-  url: ./#categories
+  url: ./categories/transit/
 
 - text: about
   url: ./about
