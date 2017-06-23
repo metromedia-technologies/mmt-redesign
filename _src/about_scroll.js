@@ -6,16 +6,18 @@ export default (($) => {
   $( document ).ready(() => {
     $foundingText.removeClass('about-left--hide');
     $foundingImage.removeClass('about-right--hide');
-    setTimeout(() => {
-      $('#founder-image').removeClass('about-left--hide');
-      $('#founder-text').removeClass('about-right--hide');
-    }, 300);
   });
 
 
   $window.scroll(() => {
     const scrollTop = $window.scrollTop();
 
+    if(isScrolledIntoView($('#founder-image'), ($(window).height() / 3))) {
+      $('#founder-image').removeClass('about-left--hide');
+    }
+    if(isScrolledIntoView($('#founder-text'), ($(window).height() / 3))) {
+      $('#founder-text').removeClass('about-right--hide');
+    }
     if(isScrolledIntoView($('#digital-image'), ($(window).height() / 3))) {
       $('#digital-image').removeClass('about-right--hide');
     }

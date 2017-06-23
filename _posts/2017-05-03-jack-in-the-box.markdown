@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Jack in the Box"
-date:   2017-05-06 08:00:00 -0500
+date:   2017-05-03 10:00:00 -0500
 description: "Bus Kings, Bus Shelters, and Car Cards."
-class: flex-col-2
+class: flex-col-1
 img: assets/img/jitb-img1.jpg
 categories: transit
 ---

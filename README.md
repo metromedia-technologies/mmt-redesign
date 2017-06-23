@@ -39,8 +39,12 @@ npm run build
 
 TODO: Describe the installation process for Jekyll and Ruby
 
-## History
+## TODO
 
 TODO: Remove the dependency on Jquery for vanilla JS
 
-TODO: Add object selectors for each category product div instead of a specific classname
+TODO: Optimize all images
+
+TODO: Add SEO meta tags and Social Media tags
+
+TODO: Refactor CSS to better adhere to BEM specification
