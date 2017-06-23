@@ -2,6 +2,7 @@ export default (($) => {
   const $window = $(window);
   const $foundingText = $('#founding-text');
   const $foundingImage = $('#founding-image');
+  const $aboutHeading = $('.about__heading');
 
   $( document ).ready(() => {
     $foundingText.removeClass('about-left--hide');
