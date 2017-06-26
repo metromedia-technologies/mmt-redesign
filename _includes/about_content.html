@@ -4,27 +4,27 @@
 <section class="about">
   <div class="container flex perspective">
     <section id="founding-text" class="information--left about-left--hide">
-      <h1 class="about__title">Early Outdoor</h1>
+      <h1 class="about__title">{{ site.data.about[0].heading }}</h1>
       <span class="about__underscore"></span>
       <p class="about__body">
-        In the early 1960’s creative executions in outdoor media were as diverse as the skills of the outdoor artists who brought these bigger than life out of home campaigns to the public.  The interpretation of the advertising agency’s designs was directly subject to the skill level and artistic talents of the individual painters charged with putting paint on panels.
+        {{ site.data.about[0].body }}
       </p>
     </section>
     <section id="founding-image" class="information--right about--flex about-right--hide">
-      <img class="about__image" src="assets/img/masked_drum-1.jpg" alt="MMT Production Facility">
+      <img class="about__image" src="{{ site.data.about[0].img }}" alt="{{ site.data.about[0].alt }}">
     </section>
   </div>
 </section>
 <section class="about about--alternate-color">
   <div class="container flex flex--reverse perspective">
     <section id="founder-image" class="information--left about--flex about-left--hide">
-      <img class="about__image" src="assets/img/masked_drum-2.jpg" alt="MMT Production Facility">
+      <img class="about__image" src="{{ site.data.about[1].img }}" alt="{{ site.data.about[1].alt }}">
     </section>
     <section id="founder-text" class="information--right about-right--hide">
-      <h1 class="about__title">Revolutionary</h1>
+      <h1 class="about__title">{{ site.data.about[1].heading }}</h1>
       <span class="about__underscore"></span>
       <p class="about__body">
-        The founder of Metromedia Technlogy envisioned a time when any outdoor design could be presented in a more precise and repeatable way. After a few years of experimentation, a technology was in fact developed that could deliver with pixel perfect precision large format digital imaging. This moment permanently changed the outdoor advertising industry and resulted in the formation of Metromedia Technologies, Inc. in 1987.
+        {{ site.data.about[1].body }}
       </p>
     </section>
   </div>
@@ -32,27 +32,27 @@
 <section class="about">
   <div class="container flex perspective">
     <section id="digital-text" class="information--left about-left--hide">
-      <h1 class="about__title">Industry Leading</h1>
+      <h1 class="about__title">{{ site.data.about[2].heading }}</h1>
       <span class="about__underscore"></span>
       <p class="about__body">
-        MMT ushered in the use of flexible face vinyl which when printed, allowed the outdoor companies to quickly respond to advertiser needs for timely campaigns. It also led to an industry wide change in the construction of billboards to accommodate the installation of the vinyl.  As demand rose for MMT’s capabilities, the company developed a state of the art production facility in Wooster, Ohio within 500 miles of 50% of the population of the US.
+        {{ site.data.about[2].body }}
       </p>
     </section>
     <section id="digital-image" class="information--right about--flex about-right--hide">
-      <img class="about__image" src="assets/img/heineken-building.jpg" alt="MMT Production Facility">
+      <img class="about__image" src="{{ site.data.about[2].img }}" alt="{{ site.data.about[2].alt }}">
     </section>
   </div>
 </section>
 <section class="about about--alternate-color">
   <div class="container flex flex--reverse perspective">
     <section id="efficiency-image" class="information--left about--flex about-left--hide">
-      <img class="about__image" src="assets/img/nike-1.jpg" alt="MMT Production Facility">
+      <img class="about__image" src="{{ site.data.about[3].img }}" alt="{{ site.data.about[3].alt }}">
     </section>
     <section id="efficiency-text" class="information--right about-right--hide">
-      <h1 class="about__title">Advancement</h1>
+      <h1 class="about__title">{{ site.data.about[3].heading }}</h1>
       <span class="about__underscore"></span>
       <p class="about__body">
-        With the advent of digital printing led by the initial deployment of inexpensive, large format HP printing systems MMT was poised to shift yet again. Between 2007-2011 a dramatic shift from the standard print product to digital large format printing devices was under way. MMT re-focused on the changing trends of the industry to meet client needs.
+        {{ site.data.about[3].body }}
       </p>
     </section>
   </div>
@@ -60,15 +60,14 @@
 <section class="about">
   <div class="container flex perspective">
     <section id="oneprint-text" class="information--left about-left--hide">
-      <h1 class="about__title">Management</h1>
+      <h1 class="about__title">{{ site.data.about[4].heading }}</h1>
       <span class="about__underscore"></span>
       <p class="about__body">
-        MMT launched an offering solution dubbed “OnePrint”. OnePrint uses a combination of MMT’s proprietary digital imaging devices along with other production processes to satisfy each client’s specific job requirements, regardless of size and scope. In addition to printing capability the Company added the ability to lead a creative process effort and supervise the creation and crafting of hard (as opposed to printed) signage and its installation.
-        This led to the recognition of MMT as a One Stop project management solution, that “One Print” provides for its clients.
+        {{ site.data.about[4].body }}
       </p>
     </section>
     <section id="oneprint-image" class="information--right about--flex about-right--hide">
-      <img class="about__image" src="assets/img/bud-1.jpg" alt="MMT Production Facility">
+      <img class="about__image" src="{{ site.data.about[4].img }}" alt="{{ site.data.about[4].alt }}">
     </section>
   </div>
 </section>

@@ -48,3 +48,17 @@ TODO: Optimize all images
 TODO: Add SEO meta tags and Social Media tags
 
 TODO: Refactor CSS to better adhere to BEM specification
+
+TODO: Add new image to footer category Wooster
+
+TODO: Add content to Transit
+
+TODO: Add content to Building
+
+TODO: Add content to Bulletins
+
+TODO: Add content to Events
+
+TODO: Add content to Prop
+
+TODO: Add content to Day Night
