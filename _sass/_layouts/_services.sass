@@ -1,0 +1,50 @@
+.services
+  background: white
+  padding: 0 0 70px 0
+  position: relative
+  width: 100%
+
+  &__heading
+    background: $rgba-grey-dark
+    color: $color-primary-0
+    font:
+      Size: 50px
+      weight: 100
+    margin: 0 0 70px 0
+    padding: 70px 0
+    text-align: center
+
+  .container
+    padding: 0 10px
+
+  .flex-row
+    perspective: 2000px
+
+  .flex-row:last-child
+    margin-top: 70px
+
+.service
+  padding: 0 10px
+  transition: transform 0.75s, opacity 0.75s
+
+  &__title
+    color: $rgba-grey-dark
+    margin: 0 0 10px 0
+
+  &__underscore
+    background: $color-complement
+    display: block
+    height: 3px
+    margin-bottom: 40px
+    width: 30px
+
+  &__body
+    color: $rgba-grey-dark
+    font:
+      size: 18px
+      weight: 300
+    line-height: 1.5
+
+  &--hide
+    opacity: 0
+    transform: rotate3d(0,1,0,45deg) translateY(50px)

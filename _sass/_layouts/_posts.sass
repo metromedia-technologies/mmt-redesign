@@ -4,6 +4,9 @@
 .post
 
   img
+    display: block
+    margin: 0
+    padding: 0
     width: 100%
 
   p
@@ -12,15 +15,13 @@
     span
       color: $color-complement
       font:
-        size: 40px
+        size: 66px
         weight: 600
-
-  p:nth-of-type(1):first-line
-    color: $color-complement
-    font:
-      weight: 600
-
-.post-title
+      float: left
+      line-height: 66px
+      padding-top: 0
+      padding-right: 8px
+      padding-left: 3px
 
 .post-description
   font:
@@ -30,7 +31,7 @@
   color: $rgba-grey-dark
   height: 200px
   margin: 0 auto
-  max-width: 740px
+  max-width: 860px
   padding: 20px
   width: 100%
 

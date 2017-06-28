@@ -1,0 +1,27 @@
+<section class="services">
+  <h1 class="services__heading">What we offer.</h1>
+  <div class="container">
+    <div class="flex-row">
+      {% for service in site.data.services limit:4 %}
+      <div class="flex-col-4 service service--hide">
+        <div>
+          <h2 class="service__title">{{ service.heading }}</h2>
+          <span class="service__underscore"></span>
+        </div>
+        <p class="service__body">{{ service.body }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="flex-row">
+      {% for service in site.data.services offset:4 %}
+      <div class="flex-col-4 service service--hide">
+        <div>
+          <h2 class="service__title">{{ service.heading }}</h2>
+          <span class="service__underscore"></span>
+        </div>
+        <p class="service__body">{{ service.body }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
