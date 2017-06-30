@@ -24,9 +24,9 @@ tagline: Dream. Design. Deliver.
 email: jsams@mmt.com
 description: > # this means to ignore newlines until "baseurl:"
   MMT is a Media Display Company serving the Out of Home Advertising, Sports & Event venues, and Retail Environments since 1987. MMT is credited with modernizing the way outdoor ad campaigns are branded as well as dramatically elevating the perception of the medium.
-# baseurl: "/" # For Development
+baseurl: "/" # For Development
 # baseurl: "file:///Users/jsams/projects/metromedia-technologies.github.stage/" # For serving from local directory
-baseurl: "https://metromedia-technologies.github.io/" # For Production
+# baseurl: "https://metromedia-technologies.github.io/" # For Production
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sams_joseph
 github_username:  sams-joseph

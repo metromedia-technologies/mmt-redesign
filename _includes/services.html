@@ -1,8 +1,11 @@
-<section class="services">
+<section id="services" class="services">
   <h1 class="services__heading">What we offer.</h1>
   <div class="container">
-    <div class="flex-row">
-      {% for service in site.data.services limit:4 %}
+      {% for service in site.data.services %}
+      {% assign mod = forloop.index | modulo:4 %}
+      {% if mod == 1 or forloop.first %}
+      <div class="flex-row">
+      {% endif %}
       <div class="flex-col-4 service service--hide">
         <div>
           <h2 class="service__title">{{ service.heading }}</h2>
@@ -10,18 +13,9 @@
         </div>
         <p class="service__body">{{ service.body }}</p>
       </div>
-      {% endfor %}
-    </div>
-    <div class="flex-row">
-      {% for service in site.data.services offset:4 %}
-      <div class="flex-col-4 service service--hide">
-        <div>
-          <h2 class="service__title">{{ service.heading }}</h2>
-          <span class="service__underscore"></span>
+      {% if mod == 0 or forloop.last %}
         </div>
-        <p class="service__body">{{ service.body }}</p>
-      </div>
+      {% endif %}
       {% endfor %}
-    </div>
   </div>
 </section>
