@@ -1,8 +1,8 @@
 - text: work
-  url: ./categories/transit/
+  url: categories/transit/
 
 - text: about
-  url: ./about
+  url: about
 
 - text: upload artwork
   url: http://107.191.33.30:9026/upload

@@ -5,21 +5,19 @@ layout: default
 
 <div class="post-container">
   <article class="post">
-    <!-- <h1 class="post-title">{{ page.title }}</h1> -->
     {{ content }}
   </article>
-
   <aside class="related">
     <h2>Related</h2>
     <ul class="related-posts">
-      {% for post in site.related_posts limit:3 %}
+      {% for post in site.posts %}
+        {% if post.categories == page.categories %}
         <li>
-          <h3>
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-            </a>
-          </h3>
+          <a class="tag" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
         </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </aside>
@@ -31,4 +29,4 @@ layout: default
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous">
 </script>
-<script src="{{ site.baseurl }}assets/js/p4.entry.chunk.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}assets/js/p4.entry.chunk.js"></script>

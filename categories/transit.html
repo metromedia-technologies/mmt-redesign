@@ -17,7 +17,7 @@ permalink: /categories/transit/
     </div>
     <div class="category-hero">
       {% for post in site.categories.transit limit:1 %}
-        <a style="background-image: url({{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ site.baseurl }}{{ post.url }}">
+        <a style="background-image: url({{ site.url }}{{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
           <div class="product__details">
             <div class="product__lockup">
               <h3>{{ post.title }}</h3>
@@ -43,7 +43,7 @@ permalink: /categories/transit/
           <div class="flex-row">
         {% endif %}
         <div class="{{ post.class }}">
-          <a style="background-image: url({{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ site.baseurl }}{{ post.url }}">
+          <a style="background-image: url({{ site.url }}{{ site.baseurl }}{{ post.img }});" class="product__link" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
             <div class="product__details">
               <div class="product__lockup">
                 <h3>{{ post.title }}</h3>
@@ -65,11 +65,11 @@ permalink: /categories/transit/
 </section>
 <div class="pagination">
   <div class="container">
-    <a class="pagination__btn prev" href="{{ site.baseurl }}categories/day-night/">
-      <img src="{{ site.baseurl }}assets/img/chevron-left.svg" alt="Arrow Left"> Day/Night
+    <a class="pagination__btn prev" href="{{ site.url }}{{ site.baseurl }}categories/day-night/">
+      <img src="{{ site.url }}{{ site.baseurl }}assets/img/chevron-left.svg" alt="Arrow Left"> Day/Night
     </a>
-    <a class="pagination__btn next" href="{{ site.baseurl }}categories/building/">
-      Building <img src="{{ site.baseurl }}assets/img/chevron-right.svg" alt="Arrow Right">
+    <a class="pagination__btn next" href="{{ site.url }}{{ site.baseurl }}categories/building/">
+      Building <img src="{{ site.url }}{{ site.baseurl }}assets/img/chevron-right.svg" alt="Arrow Right">
     </a>
   </div>
 </div>

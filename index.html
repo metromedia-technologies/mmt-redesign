@@ -51,11 +51,11 @@ $('.video-play-btn').click(function() {
 function setSoundBtn() {
   if(player.isMuted()){
       player.unMute();
-      $('.media-btn').attr('src','/assets/img/volume-2.svg');
+      $('.media-btn').attr('src','{{ site.url }}{{ site.baseurl }}assets/img/volume-2.svg');
   }
   else{
       player.mute();
-      $('.media-btn').attr('src','/assets/img/volume-x.svg');
+      $('.media-btn').attr('src','{{ site.url }}{{ site.baseurl }}assets/img/volume-x.svg');
   }
 }
 
@@ -68,12 +68,12 @@ function onPlayerStateChange(event) {
       $('.media-controls').addClass('hide-media-controls');
     } else if(event.data === 1) {
       if(player.isMuted()){
-          $('.media-btn').attr('src','/assets/img/volume-x.svg');
+          $('.media-btn').attr('src','{{ site.url }}{{ site.baseurl }}assets/img/volume-x.svg');
       }
       else{
-          $('.media-btn').attr('src','/assets/img/volume-2.svg');
+          $('.media-btn').attr('src','{{ site.url }}{{ site.baseurl }}assets/img/volume-2.svg');
       }
     }
 }
 </script>
-<script src="assets/js/p1.entry.chunk.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}assets/js/p1.entry.chunk.js"></script>
