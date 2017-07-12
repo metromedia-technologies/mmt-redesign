@@ -7,6 +7,6 @@ class: flex-col-2
 img: assets/img/mexcor-img1.jpg
 categories: transit
 ---
-Truck side advertising bolsters messages seen in other locales. This mobile mechanism extends your audience reach while bypassing any local regulations that may be in place for traditional OOH advertising.
+<span>T</span>ruck side advertising bolsters messages seen in other locales. This mobile mechanism extends your audience reach while bypassing any local regulations that may be in place for traditional OOH advertising.
 
 Mexcor wrapped their shipping fleet of 11 trucks. The visual repetitions created help to establish a strong and familiar brand image.

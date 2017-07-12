@@ -7,10 +7,11 @@ class: flex-col-1
 img: assets/img/zola-img3.jpg
 categories: transit
 ---
-Vehicle graphics continue to gain traction in corporate branding and promotion. People are on the move 24/7. Keep your brand message on the go too. Reach the masses on the road and achieve powerful brand reinforcement with customized vehicle graphics
+<span>V</span>ehicle graphics continue to gain traction in corporate branding and promotion. People are on the move 24/7. Keep your brand message on the go too. Reach the masses on the road and achieve powerful brand reinforcement with customized vehicle graphics.
+
+When ZOLA asked MMT to wrap a number of vehicles to promote their product we came through on time and on budget. Wrapping multiple vehicles means that keeping the brand color and identity consistent. This is no challenge for MMT as our process of color calibration keeps all of your brand colors printing consistent every time.
+
 
 ![image](../../assets/img/zola-img1.jpg "some image")
-
 ![image](../../assets/img/zola-img2.jpg "some image")
-
 ![image](../../assets/img/zola-img4.jpg "some image")
