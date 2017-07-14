@@ -7,19 +7,19 @@
           <span class="mobile-nav__icon">
             <img src="{{ site.url }}{{ site.baseurl }}assets/img/Gallery.svg" height="30px" width="30px" alt="Work">
           </span>
-          <a id="work-link" href="/categories/transit/">work</a>
+          <a id="work-link" href="{{ site.url }}{{ site.baseurl }}{{ site.data.site_nav[0].url }}">work</a>
         </li>
         <li class="mobile-nav__item">
           <span class="mobile-nav__icon">
             <img src="{{ site.url }}{{ site.baseurl }}assets/img/Report.svg" height="30px" width="30px" alt="Work">
           </span>
-          <a id="about-link" href="/about">about</a>
+          <a id="about-link" href="{{ site.url }}{{site.baseurl}}{{ site.data.site_nav[1].url }}">about</a>
         </li>
         <li class="mobile-nav__item">
           <span class="mobile-nav__icon">
             <img src="{{ site.url }}{{ site.baseurl }}assets/img/Upload.svg" height="30px" width="30px" alt="Work">
           </span>
-          <a id="upload-link" href="http://107.191.33.30:9026/upload">upload artwork</a>
+          <a id="upload-link" href="{{ site.data.site_nav[2].url }}">upload artwork</a>
         </li>
       </ul>
       <ul class="categories-nav mobile-nav__list">
@@ -28,7 +28,7 @@
         <li class="mobile-nav__item"><a href="{{category.link}}">{{category.name}}</a></li>
         {% endfor %}
       </ul>
-      <a class="mobile-login" href="http://orders.mmt.com/scripts/sweb.dll/search">login</a>
+      <a class="mobile-login" href="{{ site.data.site_nav[3].url }}">login</a>
     </div>
   </div>
   <div class="hero__cover-photo"></div>

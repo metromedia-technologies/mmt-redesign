@@ -1,0 +1,12 @@
+---
+layout: post
+title: Chevy
+date: '2017-05-09T14:10:00.000+00:00'
+description: All-Star smash hit. Renaissance Center building wrap.
+class: flex-col-2
+img: assets/img/gm-img1.jpg
+categories: building
+---
+![image](../../assets/img/chevy-hero.jpg "Chevy hero image")
+
+<span>C</span>hevrolet did an ad on the Renaissance Center for the All-Star game at Comerica Park. The distance on the ad signifies the actual distance from home plate in Comerica Park to the Renaissance Center. With thousands of people in attendance what better way to catch attention than this out of the park design. MMT printed this larger than life ad on perforated adhesive vinyl.
