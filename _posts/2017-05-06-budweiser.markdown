@@ -2,9 +2,13 @@
 layout: post
 title:  "Budweiser"
 date:   2017-05-06 08:00:00 -0500
-description: "Bus Kings, Bus Shelters, and Car Cards."
+description: "Largest outdoor signage in the country."
 class: flex-col-2
 img: assets/img/budweiser-img1.jpg
 categories: building
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/bud-hero.jpg "some image")
+
+<span>A</span>t the time this was printed it would be the largest outdoor sign in the country. Using MMT's proprietary drum technology a vibrant long lasting product was delivered and installed for Budweiser. With the availability to offer an unheard of five year warranty MMT provided Budweiser with a product that is unmatched in the industry.
+
+![image](../../assets/img/bud-img2.jpg "some image")
