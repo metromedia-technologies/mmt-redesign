@@ -7,4 +7,9 @@ class: flex-col-2
 img: assets/img/bud-hotel-img1.jpg
 categories: event
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/bud-hotel-hero.jpg "Bud Light Hotel Hero")
+
+<span>F</span>or Super Bowl XLVIII, Bud Light went from land to sea.  With the host city being in New Jersey, Bud Light took over a cruise ship, instead of a hotel, to float on the ice of the Hudson River.  For the rebranding process, Bud Light turned to none other than Metromedia Technologies.  The ship was covered from top to bottom with signs and wraps that displayed Bud Light’s infamous logo and their white and blue color scheme popped thanks to MMT’s innovative and vibrant printing process.
+
+![image](../../assets/img/bud-hotel-img2.jpg "Bud Light Hotel")
+![image](../../assets/img/bud-hotel-img3.jpg "Bud Light Hotel")

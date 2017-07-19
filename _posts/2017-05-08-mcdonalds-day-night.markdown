@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "McDonald's Shelter"
+title:  "McDonald's"
 date:   2017-05-08 9:10:00 -0500
 description: "Marketing Activation Campaign Super Bowl XLVIII"
 class: flex-col-1

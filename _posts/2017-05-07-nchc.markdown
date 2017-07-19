@@ -7,4 +7,14 @@ class: flex-col-1
 img: assets/img/nchc-img1.jpg
 categories: event
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/nchc-hero.jpg "NCHC Hero")
+
+<span>M</span>MT helped transform the Target Center in Minneapolis for the annual Frozen FaceOff conference tournament held by the National Collegiate Hockey Conference (NCHC).
+
+One of the key objectives of the project is to transform The Target Center, which is home to the NBA Minnesota Timberwolves, from a basketball-centric venue to a hockey-centric, NCHC-branded venue. MMT Sports provides turnkey services to the NCHC, including design, production, and installation of the visual graphics that adorn the locker rooms, concourse, and in-arena areas of the venue.
+
+![image](../../assets/img/nchc-img2.jpg "NCHC")
+![image](../../assets/img/nchc-img3.jpg "NCHC")
+![image](../../assets/img/nchc-img4.jpg "NCHC")
+
+In addition to the tournament graphics, MMT is also responsible for providing the design, production and installation of the NCHC branded elements for the conference’s annual awards banquet which is held the night prior to the tournament in downtown Minneapolis. In a matter of hours, the Muse Events Center is magically transformed into an NCHC-branded venue that inspires, motivates, and engages each of the student-athletes, coaches, and staff.

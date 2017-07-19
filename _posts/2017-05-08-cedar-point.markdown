@@ -7,4 +7,18 @@ class: flex-col-1
 img: assets/img/cedarpoint-img1.jpg
 categories: prop
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/cedarpoint-hero.jpg "Cedar Point Hero")
+
+<span>D</span>inosaurs were once the largest animals on earth and dominated it for
+millions of years. So, when the Cedar Fair Company wanted to re-create the
+magnitude and scale of these ferocious reptiles and attract visitors to their
+“Dinosaurs Alive” attraction, they turned to MMT.
+
+MMT installed three dinosaurs in all: a Tyrannosaurus Rex in Cleveland, Ohio
+and two Stegosauruses, one each in Pittsburgh, Pennsylvania and Cincinnati,
+Ohio. The T-Rex weighs approximately 2,200 pounds and was created using a steel
+frame for support and mounting, hand sculpted foam and a urethane hard
+coat.
+
+![image](../../assets/img/cedarpoint-img2.jpg "Cedar Point")
+![image](../../assets/img/cedarpoint-img3.jpg "Cedar Point")

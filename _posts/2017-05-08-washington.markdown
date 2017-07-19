@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Washington"
+title:  "Washington State"
 date:   2017-05-08 9:10:00 -0500
 description: "Marketing Activation Campaign Super Bowl XLVIII"
 class: flex-col-1
 img: assets/img/washington-img1.jpg
 categories: event
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/washington-hero.jpg "Washington Hero")
+
+<span>M</span>MT was proud to be a part of the team that completed the new Cougar Football Complex at Washington State University. Working with a regional design team, MMT printed and installed wallpaper for the new Recruit Room and the Players’ Lounge. The Recruit Room has the feel of an upscale boardroom and overlooks the Cougar practice fields. The Players’ Lounge, a unique, private space for the football team, also includes four quotes created out of dimensional letters on the walls opposite the wallpaper. It all adds up to a winning look for the Cougars.
+
+![image](../../assets/img/washington-img2.jpg "Washington Hero")

@@ -7,4 +7,14 @@ class: flex-col-2
 img: assets/img/michigan-img1.jpg
 categories: event
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/michigan-hero.jpg "Michigan Hero")
+
+<span>W</span>hen the University of Michigan’s Football program was looking to enhance the entrance to its locker room in “The Big House,” they turned to the professionals at MMT.  One of the key objectives of the project was to deliver a visual experience that immediately communicated to future recruits that they were entering one of the most storied athletic programs in all of college sports.
+
+MMT provided turnkey services on the project from design through installation.  We began by developing a creative design brief to insure that the finished product would deliver on the overall objective of the project.
+
+![image](../../assets/img/michigan-img2.jpg "Michigan")
+![image](../../assets/img/michigan-img3.jpg "Michigan")
+![image](../../assets/img/michigan-img4.jpg "Michigan")
+
+MMT design staff then went to work selecting the visual imagery, the color palette, and a wide array of materials and substrates to help bring the story and the vision to life.  Finally, our print, fabrication, and installation experts executed their tasks flawlessly to transform blank walls into a visual experience that will be talked about for years to come.
