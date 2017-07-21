@@ -5,32 +5,28 @@
   position: relative
   width: 100%
 
+  .container
+    padding: 0
+
   @media(max-width: 1040px)
-    padding: 70px 20px
+    padding: 70px 0
 
   @media(max-width: 669px)
-    padding: 40px 20px
-
-  .col:last-child .testimonial
-    padding: 0
+    padding: 40px 0
 
   @media(max-width: 668px)
     .col
       float: none
-      margin-bottom: 70px
+      margin-bottom: 40px
       flex: 0 0 100%
 
-      & .testimonial
-        padding: 0
-
-      &:last-child .testimonial
-        padding: 0
-
+      &:last-child
+        margin-bottom: 0
 
 .testimonial
   height: 100%
   opacity: 0
-  padding: 0 20px 0 0
+  padding: 0 20px
   text-align: center
   transform: translateX(30px)
   transition: all .5s
@@ -49,7 +45,7 @@
 
   &__body
     font:
-      size: 18px
+      size: 16px
       weight: 300
     line-height: 1.5
     margin: 0 0 30px 0
