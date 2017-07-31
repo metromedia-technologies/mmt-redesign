@@ -1,11 +1,6 @@
-- heading: Early Outdoor
-  body: In the early 1960’s creatives in outdoor media were limited by the skills of the outdoor artists who brought them to life.  The interpretation of the advertising agency’s designs was limited by the artistic talents of the individual painters who created these larger than life images.
-  img: assets/img/masked_drum-1.jpg
-  alt: MMT Drums
-
 - heading: Revolutionary
   body: Metromedia Technology created a printing process that could deliver repeatable large format digital images. This moment permanently changed the outdoor advertising industry and resulted in the formation of Metromedia Technologies, Inc. (MMT) in 1987.
-  img: assets/img/masked_drum-2.jpg
+  img: assets/img/masked_drum-1.jpg
   alt: MMT Drums
 
 - heading: Industry Leading
@@ -20,5 +15,5 @@
 
 - heading: Satisfaction
   body: MMT launched OnePrint, creating a one stop project management solution. OnePrint combines MMT's traditional digital imaging devices along with non-standard production processes to satisfy any clients needs. MMT is with you from project conception to completion.
-  img: assets/img/bud-1.jpg
+  img: assets/img/installation.jpg
   alt: Budweiser Letters

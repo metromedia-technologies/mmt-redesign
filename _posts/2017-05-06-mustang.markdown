@@ -7,4 +7,8 @@ class: flex-col-2
 img: assets/img/mustang-img1.jpg
 categories: prop
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/mustang-hero.jpg "some image")
+
+<span>F</span>or the launch of the 2010 Mustang, Ford Motor Company needed something ‘spectacular’ to catch everyone’s eye. With an idea in mind, they came to MMT knowing we could get the job done. Three weeks of careful planning, coordination and collaboration resulted in what you see here. Using a combination of MMT’s industry leading painted bulletin, a heavy-duty fog machine, a motor and a working brake to stop the tire, the effect created was visible from hundreds of feet away for motorists traveling down the highway.
+
+![image](../../assets/img/mustang-img2.jpg "some image")

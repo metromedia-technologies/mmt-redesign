@@ -1,10 +1,15 @@
 ---
 layout: post
 title:  "Duracell"
-date:   2017-05-03 9:10:00 -0500
+date:   2017-05-05 9:10:00 -0500
 description: "Marketing Activation Campaign Super Bowl XLVIII"
 class: flex-col-2
 img: assets/img/duracell-img1.jpg
 categories: prop
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/duracell-hero.jpg "some image")
+
+<span>I</span>nteger was charged with developing creative ideas to communicate to consumers that charging multiple phones on anything other than the myGrid™ is a very tangled web of cords. They came to MMT looking for ways that we could help them get this message across in an outdoor spectacular for the LA and NY markets (in addition to a national campaign of traditional 2D bulletins). MMT suggested the use of both dimensional 3D props (for the plugs) and inflatable vinyl (for the cords). Working from a layout sketch from The Integer Group, MMT began working with our prop artists to design, engineer, and produce the spectaculars. If your campaign needs a bit of a jolt, call your MMT Rep to add a jolt to your next campaign.
+
+![image](../../assets/img/duracell-img2.jpg "some image")
+![image](../../assets/img/duracell-img3.jpg "some image")

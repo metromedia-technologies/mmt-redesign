@@ -7,6 +7,8 @@ class: flex-col-2
 img: assets/img/hardrock-img1.jpg
 categories: event
 ---
+![image](../../assets/img/hardrock-hero.jpg "some image")
+
 <span>W</span>hen the Hard Rock Cafe in Bayside Marketplace, Miami, near
 Biscayne Bay, needed to brand their building for better brand
 recognition, they turned to MMT to produce and install inwindow
