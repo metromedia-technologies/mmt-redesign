@@ -2,7 +2,7 @@
 layout: post
 title:  "Wells Fargo"
 date:   2017-05-07 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "National Campaign for Wells Fargo."
 class: flex-col-1
 img: assets/img/wellsfargo-img1.jpg
 categories: bulletin

@@ -2,9 +2,14 @@
 layout: post
 title:  "Timex Performance Center"
 date:   2017-05-04 11:00:00 -0500
-description: "National Out-Of-Home Campaign."
+description: "Timex Performance Center Branding."
 class: flex-col-1
 img: assets/img/timex-img1.jpg
 categories: building
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/timex-hero.jpg "McDonalds hero image")
+
+<span>W</span>hen the New York Giants needed to brand their $18 million practice and training facility with their partner Timex, MMT was there to help. Wrapping portions of the Timex Performance Center was no small feet as the facility is one of the largest in the country. This project consisted of print production on 3M self adhesive vinyl and a flawless installation.
+
+![image](../../assets/img/timex-img2.jpg "McDonalds hero image")
+![image](../../assets/img/timex-img3.jpg "McDonalds hero image")

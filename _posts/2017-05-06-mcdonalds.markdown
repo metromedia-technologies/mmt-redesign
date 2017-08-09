@@ -2,7 +2,7 @@
 layout: post
 title:  "McDonald's"
 date:   2017-05-06 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "The new Apple Cinnamon Walnut Oatmeal."
 class: flex-col-2
 img: assets/img/mcd-bulletin-img1.jpg
 categories: bulletin

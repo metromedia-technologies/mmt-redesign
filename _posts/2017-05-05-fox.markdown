@@ -2,7 +2,7 @@
 layout: post
 title:  "Fox"
 date:   2017-05-05 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Back-lit Banners Located on Sunset Blvd."
 class: flex-col-2
 img: assets/img/fox-img1.jpg
 categories: bulletin

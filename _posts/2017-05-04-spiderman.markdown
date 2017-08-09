@@ -7,4 +7,6 @@ class: flex-col-1
 img: assets/img/spiderman-img1.jpg
 categories: day-night
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<span>S</span>pider-Man’s greatest battle begins on these EL-backed bulletins in both New York City and Los Angeles! Through a design collaboration with the creative agency and MMT’s own pre-production artists, this electrifying design comes to life at night when Electro enters the scene! Using electro-luminescent panels and MMT’s proprietary double-sided printing, Spider-man’s epic battle shines brightly in both day and night!
+
+With great quality printing comes great responsibility. How can MMT help you?

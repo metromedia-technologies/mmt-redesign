@@ -2,7 +2,7 @@
 layout: post
 title:  "Jack in the Box"
 date:   2017-05-04 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Releasing the new Triple Bacon Burger."
 class: flex-col-1
 img: assets/img/jack-bulletin-img1.jpg
 categories: bulletin

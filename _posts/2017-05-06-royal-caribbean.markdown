@@ -9,7 +9,7 @@ categories: day-night
 ---
 ![image](../../assets/img/royal-hero.jpg "some image")
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<span>T</span>o announce their new international cruise line, Royal Caribbean International, utilized MMT's day-to-night technology to enchance their creative. During the day you see a sunset scene with vibrant undersea creature. At night the creature comes to life adding a dramatic colorization and realistic glow to the undersea creature. Let MMT bring your designs to life.
 
 ![image](../../assets/img/royal-img4.jpg "some image")
 ![image](../../assets/img/royal-img2.jpg "some image")

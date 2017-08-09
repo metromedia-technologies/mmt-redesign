@@ -1,19 +1,19 @@
-- icon: linkedin-icon.svg
+- icon: https://res.cloudinary.com/jsams/image/upload/v1502290837/linkedin-icon_qjdhjy.svg
   alt: linkedin
   url: https://www.linkedin.com/company/metromedia-technologies
 
-- icon: facebook-icon.svg
+- icon: https://res.cloudinary.com/jsams/image/upload/v1502290837/facebook-icon_gukdfy.svg
   alt: facebook
   url: https://www.facebook.com/metromediatech
 
-- icon: twitter-icon.svg
+- icon: https://res.cloudinary.com/jsams/image/upload/v1502290840/twitter-icon_zlp4tc.svg
   alt: twitter
   url: https://twitter.com/metromediatech
 
-- icon: instagram-icon.svg
+- icon: https://res.cloudinary.com/jsams/image/upload/v1502290837/instagram-icon_p652tb.svg
   alt: instagram
   url: https://www.instagram.com/metromediatech
 
-- icon: youtube-icon.svg
+- icon: https://res.cloudinary.com/jsams/image/upload/v1502290842/youtube-icon_kn0n7g.svg
   alt: youtube
   url: https://www.youtube.com/mmtvids

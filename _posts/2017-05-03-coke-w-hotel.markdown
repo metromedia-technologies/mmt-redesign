@@ -2,7 +2,7 @@
 layout: post
 title:  "Coke W Hotel"
 date:   2017-05-03 10:00:00 -0500
-description: "Full double decker bus wrap gaining attention."
+description: "Sponsor branding for the Final Four."
 class: flex-col-1
 img: assets/img/coke-w-img1.jpg
 categories: building
@@ -12,4 +12,10 @@ fbtitle: Metromedia Technologies - Coke W Hotel
 fburl: http://mmt.com/vehicle/coke-w-hotel/
 fbimage: home-image-social
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/coke-hero.jpg "McDonalds hero image")
+
+<span>T</span>here’s nothing more impressive than wrapping an entire building with your brand. And you can do it too,—almost anywhere—with MMT.
+We invite you to think big and challenge us with your ideas. Our production capabilities mean there is just about no limit to how large you can go. And printing is just for starters! We can manage the entire process from city codes and street-blocking permits to building wrap installation cranes and helicopters. You find the structure, we’ll find the solution.
+
+![image](../../assets/img/coke-img2.jpg "McDonalds hero image")
+![image](../../assets/img/coke-img3.jpg "McDonalds hero image")

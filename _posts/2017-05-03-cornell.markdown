@@ -7,4 +7,7 @@ class: flex-col-1
 img: assets/img/cornell-img1.jpg
 categories: event
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/cornell-hero.jpg "McDonalds hero image")
+
+<span>M</span>MT helped spruce up the look and feel of Cornell University’s Lynah Rink, home to Cornell’s men’s and women’s elite hockey programs. The University asked MMT to help bring Lynah Rink to life.
+The branding project included concourse door murals highlighting their student athletes, dehumidifier wraps to dress up some eye-sore areas, directional signage, restroom graphics, team room door murals and press box wall murals. From site survey to fabrication to the final install, MMT successfully completed the hat trick!

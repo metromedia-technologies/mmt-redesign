@@ -7,4 +7,8 @@ class: flex-col-1
 img: assets/img/jitb-img1.jpg
 categories: transit
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image](../../assets/img/jitb-hero.jpg "McDonalds hero image")
+
+<span>F</span>rom the Pacific Northwest to the glitzy lights of Las Vegas. MMT produced bulletins, posters, buskings, shelters, specialty walls and interior transit cards for the delicious new "Triple Bacon" Buttery Jack sandwich. MMT and our production facility located in Ohio printed fast, great quality, and on budget for D & G Advertising, LA and their client Jack in the Box. Delicious appetite appeal for this new product is hanging around in over 30 markets nationwide.
+
+![image](../../assets/img/jitb-img2.jpg "McDonalds hero image")

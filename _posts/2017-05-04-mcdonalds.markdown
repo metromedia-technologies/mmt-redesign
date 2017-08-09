@@ -9,6 +9,6 @@ categories: transit
 ---
 ![image](../../assets/img/mcd-hero.jpg "McDonalds hero image")
 
-<span>L</span>orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<span>W</span>hen McDonald's released their new menu item, apple cinnamon walnut oatmeal, they turned to MMT to print their out of home campaign. Transit shelters pose a unique problem by being both back-lit and not back-lit. Some transit shelters are back-lit 24/7 and others are only lit at night. MMT offers double sided printing as well as single sided printing on transit shelters to accommodate for all situations.
 
 ![image](../../assets/img/mcd-shelter-img2.jpg "McDonalds shelter")

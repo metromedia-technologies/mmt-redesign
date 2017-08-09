@@ -7,4 +7,6 @@ class: flex-col-1
 img: assets/img/mcd-daynight-img1.jpg
 categories: day-night
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<span>M</span>MT’s innovative backlight images make heads turn 24/7. The deep, rich color of MMT’s digitally precise painting process is color balanced for consistent viewing, both day & night. Whether you’re a night owl or an early bird, MMT’s backlight signs will catch your eye. All of MMT’s images are guaranteed not to chip, peel, crack or fade – even in adverse weather conditions.
+
+Our patented day and night backlight process combines creativity and viewing conditions to transform any image. Reflective copy is printed on the front, with translucent copy on the reverse side, so bright sunny days can become a twilight sky at night. Very inviting!

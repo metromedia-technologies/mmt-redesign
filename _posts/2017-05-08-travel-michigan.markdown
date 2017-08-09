@@ -2,7 +2,7 @@
 layout: post
 title:  "Travel Michigan"
 date:   2017-05-08 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Out of Home campaign for Travel Michigan."
 class: flex-col-1
 img: assets/img/travel-img1.jpg
 categories: bulletin
