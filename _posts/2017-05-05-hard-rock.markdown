@@ -2,7 +2,7 @@
 layout: post
 title:  "Hard Rock"
 date:   2017-05-05 9:10:00 -0500
-description: "Hard Rock Cafe in Bayside Marketplace"
+description: "Bayside Marketplace"
 class: flex-col-2
 img: assets/img/hardrock-img1.jpg
 categories: event

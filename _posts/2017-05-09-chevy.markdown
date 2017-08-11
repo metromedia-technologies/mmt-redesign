@@ -6,6 +6,11 @@ description: Renaissance Center
 class: flex-col-2
 img: assets/img/gm-img1.jpg
 categories: building
+metadesc: Chevrolet did an ad on the Renaissance Center for the All-Star game at Comerica Park.
+twimage: gm-img1
+fbtitle: Metromedia Technologies - Chevy
+fburl: http://mmt.com/building/chevy/
+fbimage: gm-img1
 ---
 ![image](../../assets/img/chevy-hero.jpg "Chevy hero image")
 

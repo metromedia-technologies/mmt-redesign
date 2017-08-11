@@ -6,6 +6,11 @@ description: "Caribbean Cruise"
 class: flex-col-2
 img: assets/img/carnival-img1.jpg
 categories: prop
+metadesc: Carnival Caribbean Cruise Ad Campaign.
+twimage: carnival-img1
+fbtitle: Metromedia Technologies - Carnival
+fburl: http://mmt.com/prop/carnival/
+fbimage: carnival-img1
 ---
 ![image](../../assets/img/carnival-hero.jpg "some image")
 

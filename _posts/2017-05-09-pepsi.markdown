@@ -6,6 +6,11 @@ description: "Super Bowl XLVIII"
 class: flex-col-2
 img: assets/img/super-bowl-img1.jpg
 categories: bulletin
+metadesc: A marketing activation campaign for Super Bowl XLVIII.
+twimage: super-bowl-img1
+fbtitle: Metromedia Technologies - Pepsi
+fburl: http://mmt.com/bulletin/pepsi/
+fbimage: super-bowl-img1
 ---
 ![image](../../assets/img/pepsi-hero.jpg "Pepsi hero")
 

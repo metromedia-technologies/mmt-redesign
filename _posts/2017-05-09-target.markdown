@@ -6,6 +6,11 @@ description: "Fresh has arrived"
 class: flex-col-2
 img: assets/img/target-bus-img1.jpg
 categories: transit
+metadesc: Target, Fresh has Arrived, bus campaign.
+twimage: target-bus-img1
+fbtitle: Metromedia Technologies - Target
+fburl: http://mmt.com/transit/target/
+fbimage: target-bus-img1
 ---
 ![image](../../assets/img/target-hero.jpg "some image")
 

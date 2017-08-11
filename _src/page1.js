@@ -1,4 +1,4 @@
-import './modernizr';
+// import './modernizr';
 import './footer';
 import './hero';
 import './mobile_menu';

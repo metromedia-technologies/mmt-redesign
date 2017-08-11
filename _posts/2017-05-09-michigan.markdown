@@ -6,6 +6,11 @@ description: "The Big House"
 class: flex-col-2
 img: assets/img/michigan-img1.jpg
 categories: event
+metadesc: University of Michigan's "The Big House" locker room entrance.
+twimage: michigan-img1
+fbtitle: Metromedia Technologies - Michigan
+fburl: http://mmt.com/event/michigan/
+fbimage: michigan-img1
 ---
 ![image](../../assets/img/michigan-hero.jpg "Michigan Hero")
 
