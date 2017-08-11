@@ -2,7 +2,7 @@
 layout: post
 title:  "Call of Duty"
 date:   2017-05-09 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Toughest Vehicle in the World"
 class: flex-col-2
 img: assets/img/cod-img1.jpg
 categories: day-night

@@ -2,7 +2,7 @@
 layout: post
 title:  "L.L. Bean"
 date:   2017-05-04 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Paramus Park Mall"
 class: flex-col-1
 img: assets/img/llbean-img1.jpg
 categories: event

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cedar Point"
 date:   2017-05-08 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Dinosaurs Alive"
 class: flex-col-1
 img: assets/img/cedarpoint-img1.jpg
 categories: prop

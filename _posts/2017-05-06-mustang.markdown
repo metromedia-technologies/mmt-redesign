@@ -2,7 +2,7 @@
 layout: post
 title:  "Ford Mustang"
 date:   2017-05-06 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Launch of the Mustang"
 class: flex-col-2
 img: assets/img/mustang-img1.jpg
 categories: prop

@@ -2,7 +2,7 @@
 layout: post
 title:  "HBO"
 date:   2017-05-07 08:00:00 -0500
-description: "The famous 9000 Sunset Boulevard."
+description: "9000 Sunset Boulevard"
 class: flex-col-1
 img: assets/img/veep-img1.jpg
 categories: building

@@ -2,7 +2,7 @@
 layout: post
 title:  "Target"
 date:   2017-05-09 9:10:00 -0500
-description: "Target rolled out 10 bright and colorful, fully-wrapped buses"
+description: "Fresh has arrived"
 class: flex-col-2
 img: assets/img/target-bus-img1.jpg
 categories: transit

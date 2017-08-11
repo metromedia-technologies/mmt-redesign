@@ -2,7 +2,7 @@
 layout: post
 title:  "Timex Performance Center"
 date:   2017-05-04 11:00:00 -0500
-description: "Timex Performance Center Branding."
+description: "New York Giants"
 class: flex-col-1
 img: assets/img/timex-img1.jpg
 categories: building

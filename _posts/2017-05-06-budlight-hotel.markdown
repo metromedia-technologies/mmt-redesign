@@ -2,7 +2,7 @@
 layout: post
 title:  "Budlight Hotel"
 date:   2017-05-06 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Super Bowl XLVIII"
 class: flex-col-2
 img: assets/img/bud-hotel-img1.jpg
 categories: event

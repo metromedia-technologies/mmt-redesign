@@ -2,7 +2,7 @@
 layout: post
 title:  "Toyota"
 date:   2017-05-03 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "4Runner You In?"
 class: flex-col-1
 img: assets/img/toyota-img1.jpg
 categories: bulletin

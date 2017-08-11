@@ -2,7 +2,7 @@
 layout: post
 title:  "Washington State"
 date:   2017-05-08 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Cougar Football Complex"
 class: flex-col-1
 img: assets/img/washington-img1.jpg
 categories: event

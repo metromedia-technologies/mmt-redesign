@@ -2,7 +2,7 @@
 layout: post
 title:  "Hard Rock"
 date:   2017-05-05 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Hard Rock Cafe in Bayside Marketplace"
 class: flex-col-2
 img: assets/img/hardrock-img1.jpg
 categories: event
@@ -14,7 +14,7 @@ Biscayne Bay, needed to brand their building for better brand
 recognition, they turned to MMT to produce and install inwindow
 displays.
 
-The unsual shape of the building and taxing angles made this
+The unusual shape of the building and taxing angles made this
 project particularly challenging. MMT used self-adhesive, nonpreforated,
 3M material that shaped to the Hard Rock Cafe’s
 glass façade.

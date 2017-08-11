@@ -2,7 +2,7 @@
 layout: post
 title:  "Coke"
 date:   2017-05-05 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Enjoy a Coke"
 class: flex-col-2
 img: assets/img/coke-img1.jpg
 categories: day-night

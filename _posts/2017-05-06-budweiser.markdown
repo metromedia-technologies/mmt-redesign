@@ -2,7 +2,7 @@
 layout: post
 title:  "Budweiser"
 date:   2017-05-06 08:00:00 -0500
-description: "Largest outdoor signage in the country."
+description: "Largest outdoor signage in the country"
 class: flex-col-2
 img: assets/img/budweiser-img1.jpg
 categories: building

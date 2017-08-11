@@ -2,7 +2,7 @@
 layout: post
 title:  "NCHC"
 date:   2017-05-07 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Frozen FaceOff"
 class: flex-col-1
 img: assets/img/nchc-img1.jpg
 categories: event

@@ -2,7 +2,7 @@
 layout: post
 title:  "Royal Caribbean"
 date:   2017-05-06 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Harmony of the seas"
 class: flex-col-2
 img: assets/img/royal-img1.jpg
 categories: day-night

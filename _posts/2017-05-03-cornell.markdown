@@ -2,7 +2,7 @@
 layout: post
 title:  "Cornell Hockey"
 date:   2017-05-04 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Lynah Hockey Rink"
 class: flex-col-1
 img: assets/img/cornell-img1.jpg
 categories: event

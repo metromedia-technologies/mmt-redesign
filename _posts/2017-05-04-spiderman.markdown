@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Spiderman"
+title:  "Spider-man"
 date:   2017-05-04 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Amazing Spider-man 2"
 class: flex-col-1
 img: assets/img/spiderman-img1.jpg
 categories: day-night

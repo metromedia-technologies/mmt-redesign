@@ -2,7 +2,7 @@
 layout: post
 title:  "Coke W Hotel"
 date:   2017-05-03 10:00:00 -0500
-description: "Sponsor branding for the Final Four."
+description: "The Final Four"
 class: flex-col-1
 img: assets/img/coke-w-img1.jpg
 categories: building

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mexcor"
 date:   2017-05-05 09:00:00 -0500
-description: "Mexcor wrapped their shipping fleet of 11 trucks."
+description: "Tequila whiskey and vodka"
 class: flex-col-2
 img: assets/img/mexcor-img1.jpg
 categories: transit

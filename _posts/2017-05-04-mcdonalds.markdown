@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "McDonalds"
+title:  "McDonald's"
 date:   2017-05-04 11:00:00 -0500
-description: "National Out-Of-Home Campaign."
+description: "Apple cinnamon walnut oatmeal"
 class: flex-col-1
 img: assets/img/mcd-shelter-img1.jpg
 categories: transit

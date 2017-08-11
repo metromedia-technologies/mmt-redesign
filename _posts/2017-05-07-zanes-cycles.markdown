@@ -2,7 +2,7 @@
 layout: post
 title:  "Zanes Cycles"
 date:   2017-05-07 08:00:00 -0500
-description: "Advertising in the form of vehicle wraps can really get a company noticed."
+description: "World famous"
 class: flex-col-1
 img: assets/img/zanes-img1.jpg
 categories: transit

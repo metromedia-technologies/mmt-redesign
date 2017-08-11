@@ -2,7 +2,7 @@
 layout: post
 title:  "Heineken"
 date:   2017-05-06 08:00:00 -0500
-description: "Launch of the new Star Bottle design rolling the streets of Washington D.C."
+description: "Presenting the star bottle"
 class: flex-col-2
 img: assets/img/heineken-img1.jpg
 categories: transit
@@ -12,7 +12,7 @@ categories: transit
 
 <span>F</span>or the first time since 1946, Heineken has redesigned their green bottle for U.S. consumers. When Heineken launched their new "Star Bottle" design they turned to MMT to print the graphics that would transport their message around Washington D.C. Utilizing full bus wraps Heineken was able to spread their message to a large, ever-changing audience by driving it across the city on multiple buses.
 
-To completely wrap a bus it takes two types of adhesives, opaque and perforated. When printing on two different substrates the challenge of matching color and aligning the image between the two is vital. Through quality control and attention to detail this challenge is easy for MMT to handle. 
+To completely wrap a bus it takes two types of adhesives, opaque and perforated. When printing on two different substrates the challenge of matching color and aligning the image between the two is vital. Through quality control and attention to detail this challenge is easy for MMT to handle.
 
 ![image](../../assets/img/heineken-img2.jpg "Heineken on the road")
 ![image](../../assets/img/heineken-img3.jpg "Heineken close up")

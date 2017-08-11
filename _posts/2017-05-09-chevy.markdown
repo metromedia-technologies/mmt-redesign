@@ -2,7 +2,7 @@
 layout: post
 title: Chevy
 date: '2017-05-09T14:10:00.000+00:00'
-description: All-Star smash hit. Renaissance Center building wrap.
+description: Renaissance Center
 class: flex-col-2
 img: assets/img/gm-img1.jpg
 categories: building

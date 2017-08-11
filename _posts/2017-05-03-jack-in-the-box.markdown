@@ -2,7 +2,7 @@
 layout: post
 title:  "Jack in the Box"
 date:   2017-05-03 10:00:00 -0500
-description: "Bus Kings, Bus Shelters, and Car Cards."
+description: "Triple bacon burger"
 class: flex-col-1
 img: assets/img/jitb-img1.jpg
 categories: transit

@@ -2,7 +2,7 @@
 layout: post
 title:  "Superbowl XLV"
 date:   2017-05-05 09:00:00 -0500
-description: "Omni Hotel & Renaissance Tower wraps."
+description: "Omni Hotel & Renaissance Tower"
 class: flex-col-2
 img: assets/img/superbowl-img1.jpg
 categories: building

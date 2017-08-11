@@ -2,7 +2,7 @@
 layout: post
 title:  "McDonald's"
 date:   2017-05-08 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "The tastiest fries under the sun"
 class: flex-col-1
 img: assets/img/mcd-daynight-img1.jpg
 categories: day-night

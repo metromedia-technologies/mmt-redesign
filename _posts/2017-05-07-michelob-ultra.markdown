@@ -2,7 +2,7 @@
 layout: post
 title:  "Michelob Ultra"
 date:   2017-05-07 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "American Airlines Center"
 class: flex-col-1
 img: assets/img/mich-ultra-img1.jpg
 categories: prop

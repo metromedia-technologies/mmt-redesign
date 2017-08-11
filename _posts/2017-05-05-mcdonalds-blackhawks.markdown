@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "McDonald's Blackhawks"
+title:  "McDonald's"
 date:   2017-05-04 9:10:00 -0500
-description: "Marketing Activation Campaign Super Bowl XLVIII"
+description: "Chicago Blackhawk's"
 class: flex-col-1
 img: assets/img/blackhawks-img1.jpg
 categories: prop
