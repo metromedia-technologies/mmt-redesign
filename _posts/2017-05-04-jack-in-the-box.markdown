@@ -12,4 +12,6 @@ fbtitle: Metromedia Technologies - Jack in the Box
 fburl: http://mmt.com/bulletin/jack-in-the-box/
 fbimage: jack-bulletin-img1
 ---
+![image](../../assets/img/jack-bulletin-hero.jpg "Jack in the Box")
+
 <span>F</span>rom the Pacific Northwest to the glitzy lights of Las Vegas. MMT produced bulletins, posters, buskings, shelters, specialty walls and interior transit cards for the delicious new "Triple Bacon" Buttery Jack sandwich. MMT and our production facility located in Ohio printed fast, great quality, and on budget for D & G Advertising, LA and their client Jack in the Box. Delicious appetite appeal for this new product is hanging around in over 30 markets nationwide.

@@ -12,4 +12,8 @@ fbtitle: Metromedia Technologies - Coke
 fburl: http://mmt.com/day-night/coke/
 fbimage: coke-img1
 ---
+![image](../../assets/img/coke-daynight-hero.jpg "Coke Day/Night")
+
 <span>W</span>ith the launch of MMT's new product VISEN long time partner Coca-Cola and MMT created a dramatic day-to-night transition to showcase what is possible with VISEN. During the day you see a simple clear blue sky with the signature Coca-Cola bottle and logo. At night the scene is transformed into a happy couple enjoying a Coke at a rooftop party. Harness the power of VISEN to enhance your creative.
+
+![image](../../assets/img/coke-daynight-img2.jpg "Coke Day/Night")

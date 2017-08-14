@@ -12,5 +12,9 @@ fbtitle: Metromedia Technologies - Allstate
 fburl: http://mmt.com/day-night/allstate/
 fbimage: allstate-img1
 ---
+![image](../../assets/img/allstate-hero.jpg "Allstate")
+
 <span>A</span>llstate came to MMT looking for innovative ideas for their billboard campaign. MMT combined its patented backlit vinyl printing with
 electroluminescent technology and created what was at the time the biggest totally-covered EL-backlit board in the world. A few short months later it was beat out by another project done by MMT for Jeep. MMT’s patented day and night backlight process combines creativity, technology, and electricity to transform any image.
+
+![image](../../assets/img/allstate-img2.jpg "Allstate")

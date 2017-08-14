@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call of Duty"
+title:  "Jeep"
 date:   2017-05-09 9:10:00 -0500
 description: "Toughest Vehicle in the World"
 class: flex-col-2

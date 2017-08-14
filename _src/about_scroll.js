@@ -13,11 +13,11 @@ export default (($) => {
   $window.scroll(() => {
     const scrollTop = $window.scrollTop();
 
-    if(isScrolledIntoView($('#founder-image'), ($(window).height() / 3))) {
-      $('#founder-image').removeClass('about-left--hide');
+    if(isScrolledIntoView($('#industry-image'), ($(window).height() / 3))) {
+      $('#industry-image').removeClass('about-left--hide');
     }
-    if(isScrolledIntoView($('#founder-text'), ($(window).height() / 3))) {
-      $('#founder-text').removeClass('about-right--hide');
+    if(isScrolledIntoView($('#industry-text'), ($(window).height() / 3))) {
+      $('#industry-text').removeClass('about-right--hide');
     }
     if(isScrolledIntoView($('#digital-image'), ($(window).height() / 3))) {
       $('#digital-image').removeClass('about-right--hide');

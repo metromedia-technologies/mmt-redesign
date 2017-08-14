@@ -8,9 +8,9 @@ export default (($) => {
       const $testimonial = $('.testimonial');
       const $service = $('.service');
 
-      $hero.css({
-        'transform': 'translateY(-' + scrollTop / 6 + 'px)'
-      });
+      // $hero.css({
+      //   'transform': 'translateY(-' + scrollTop / 6 + 'px)'
+      // });
 
       if(isScrolledIntoView($('.testimonials'), ($(window).height() / 3))) {
         $testimonial.each((i) => {
