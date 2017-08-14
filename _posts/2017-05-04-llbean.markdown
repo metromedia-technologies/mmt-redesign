@@ -6,11 +6,16 @@ description: "Paramus Park Mall"
 class: flex-col-1
 img: assets/img/llbean-img1.jpg
 categories: event
+metadesc: L.L. Bean mall takeover for the opening of their new store locations.
+twimage: llbean-img1
+fbtitle: Metromedia Technologies - L.L. Bean
+fburl: http://mmt.com/event/llbean/
+fbimage: llbean-img1
 ---
-![image](../../assets/img/llbean-hero.jpg "McDonalds hero image")
+![image](../../assets/img/llbean-hero.jpg "L.L. Bean hero")
 
 <span>T</span>he idea was to create a striking visual display that embodied the essence of L.L. Bean while attracting mall-goers into its new store in the Paramus Park Mall in New Jersey. The result was MMT and GSD&M joining forces. Together, they made a “realistic” stream using floor graphics that led customers to the L.L. Bean store. The project included elevator displays, escalator wraps and out-of-home ads that invited people to “step into the outdoors.” The campaign earned GSD&M a 2012 OBIE Award for Best in Show.
 
-![image](../../assets/img/llbean-img4.jpg "McDonalds hero image")
-![image](../../assets/img/llbean-img3.jpg "McDonalds hero image")
-![image](../../assets/img/llbean-img2.jpg "McDonalds hero image")
+![image](../../assets/img/llbean-img4.jpg "L.L. Bean")
+![image](../../assets/img/llbean-img3.jpg "L.L. Bean")
+![image](../../assets/img/llbean-img2.jpg "L.L. Bean")

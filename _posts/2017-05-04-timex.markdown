@@ -6,10 +6,15 @@ description: "New York Giants"
 class: flex-col-1
 img: assets/img/timex-img1.jpg
 categories: building
+metadesc: New York Giants training facility re-branding to the Timex Performance Center.
+twimage: timex-img1
+fbtitle: Metromedia Technologies - Timex Performance Center
+fburl: http://mmt.com/building/timex/
+fbimage: timex-img1
 ---
-![image](../../assets/img/timex-hero.jpg "McDonalds hero image")
+![image](../../assets/img/timex-hero.jpg "Timex Performance Center")
 
 <span>W</span>hen the New York Giants needed to brand their $18 million practice and training facility with their partner Timex, MMT was there to help. Wrapping portions of the Timex Performance Center was no small feet as the facility is one of the largest in the country. This project consisted of print production on 3M self adhesive vinyl and a flawless installation.
 
-![image](../../assets/img/timex-img2.jpg "McDonalds hero image")
-![image](../../assets/img/timex-img3.jpg "McDonalds hero image")
+![image](../../assets/img/timex-img2.jpg "Timex Performance Center")
+![image](../../assets/img/timex-img3.jpg "Timex Performance Center")

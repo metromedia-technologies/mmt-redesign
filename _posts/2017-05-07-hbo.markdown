@@ -6,7 +6,12 @@ description: "9000 Sunset Boulevard"
 class: flex-col-1
 img: assets/img/veep-img1.jpg
 categories: building
+metadesc: HBO Building wrap at 9000 Sunset Boulevard.
+twimage: veep-img1
+fbtitle: Metromedia Technologies - HBO
+fburl: http://mmt.com/building/hbo/
+fbimage: veep-img1
 ---
-![image](../../assets/img/hbo-hero.jpg "some image")
+![image](../../assets/img/hbo-hero.jpg "Veep hero")
 
 <span>T</span>ogether MMT and HBO, on an almost monthly timeline, bring the surface of the iconic 9000 Sunset Boulevard building to life. 9000 Sunset Boulevard, where the graphics measure 172 feet tall by just more than 72 feet wide. The building is comprised of 19 panels with 18 mullion strips on top and another 18 mullion strips on the bottom. Considering the massive size of these graphics, it is important that MMT maintains a good working relationship with the installer and understands the project specifications to deliver a successful building wrap.

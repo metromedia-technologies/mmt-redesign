@@ -6,9 +6,18 @@ description: "When night falls"
 class: flex-col-1
 img: assets/img/target-daynight-img1.jpg
 categories: day-night
+metadesc: Target Halloween day/night spectacular for their When Night Falls campaign.
+twimage: target-daynight-img1
+fbtitle: Metromedia Technologies - Target
+fburl: http://mmt.com/day-night/target/
+fbimage: target-daynight-img1
 ---
-<span>W</span>hen Target was looking to scare up some chills for Halloween, they turned to MMT, experts in Electroluminescent Billboards. MMT combined its patented day/night backlit vinyl printing with electroluminescent technology to create spectacular billboards for Target. Using EL Technology, MMT was able to create a SpOoKy effect for Target’s billboards.
+![image](../../assets/img/target-daynight-hero.jpg "Target")
+
+<span>W</span>hen Target was looking to scare up some chills for Halloween, they turned to MMT, experts in Electroluminescent Billboards. MMT combined its patented day/night backlit vinyl printing with electroluminescent technology to create spectacular billboards for Target. Using EL Technology, MMT was able to create a SpooKy effect for Target’s billboards.
 
 During the day, the creative depicts a princess and pirate trick-or-treating. But, as the night falls, ominous jack-o-lanterns come alive and a witch’s shadow appears thanks to the patented low-voltage electroluminescent Light Tape® lamps lighting the vinyl from behind.
+
+![image](../../assets/img/target-daynight-img2.jpg "Target")
 
 MMT’s patented day/night backlight process combines creativity, technology, and electricity to transform any image!

@@ -6,6 +6,11 @@ description: "Frozen FaceOff"
 class: flex-col-1
 img: assets/img/nchc-img1.jpg
 categories: event
+metadesc: National Collegiate Hockey Conference's annual Frozen FaceOff transformation.
+twimage: nchc-img1
+fbtitle: Metromedia Technologies - NCHC
+fburl: http://mmt.com/event/nchc/
+fbimage: nchc-img1
 ---
 ![image](../../assets/img/nchc-hero.jpg "NCHC Hero")
 

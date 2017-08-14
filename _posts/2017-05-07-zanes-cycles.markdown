@@ -6,6 +6,11 @@ description: "World famous"
 class: flex-col-1
 img: assets/img/zanes-img1.jpg
 categories: transit
+metadesc: Zanes' World Famous Cycles.
+twimage: zanes-img1
+fbtitle: Metromedia Technologies - Zanes Cycles
+fburl: http://mmt.com/transit/zanes-cycles/
+fbimage: zanes-img1
 ---
 ![image](../../assets/img/zanes-hero.jpg "Zane's Hero")
 

@@ -6,6 +6,11 @@ description: "Tequila whiskey and vodka"
 class: flex-col-2
 img: assets/img/mexcor-img1.jpg
 categories: transit
+metadesc: Mexcor fleet graphics for their Tequila, Whiskey, and Vodka.
+twimage: mexcor-img1
+fbtitle: Metromedia Technologies - Mexcor
+fburl: http://mmt.com/transit/mexcor/
+fbimage: mexcor-img1
 ---
 ![image](../../assets/img/mexcor-hero.jpg "Mexcor Hero")
 

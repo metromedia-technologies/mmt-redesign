@@ -6,10 +6,15 @@ description: "Charging untangled"
 class: flex-col-2
 img: assets/img/duracell-img1.jpg
 categories: prop
+metadesc: Duracell's charging untangled creative design incorporating 3-dimensional props.
+twimage: duracell-img1
+fbtitle: Metromedia Technologies - Duracell
+fburl: http://mmt.com/prop/duracell/
+fbimage: duracell-img1
 ---
-![image](../../assets/img/duracell-hero.jpg "some image")
+![image](../../assets/img/duracell-hero.jpg "Duracell hero")
 
 <span>I</span>nteger was charged with developing creative ideas to communicate to consumers that charging multiple phones on anything other than the myGrid™ is a very tangled web of cords. They came to MMT looking for ways that we could help them get this message across in an outdoor spectacular for the LA and NY markets (in addition to a national campaign of traditional 2D bulletins). MMT suggested the use of both dimensional 3D props (for the plugs) and inflatable vinyl (for the cords). Working from a layout sketch from The Integer Group, MMT began working with our prop artists to design, engineer, and produce the spectaculars. If your campaign needs a bit of a jolt, call your MMT Rep to add a jolt to your next campaign.
 
-![image](../../assets/img/duracell-img2.jpg "some image")
-![image](../../assets/img/duracell-img3.jpg "some image")
+![image](../../assets/img/duracell-img2.jpg "Duracell")
+![image](../../assets/img/duracell-img3.jpg "Duracell")

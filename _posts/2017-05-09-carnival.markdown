@@ -12,10 +12,10 @@ fbtitle: Metromedia Technologies - Carnival
 fburl: http://mmt.com/prop/carnival/
 fbimage: carnival-img1
 ---
-![image](../../assets/img/carnival-hero.jpg "some image")
+![image](../../assets/img/carnival-hero.jpg "Carnival Cruise")
 
 <span>C</span>arnival is “The World’s Most Popular Cruise Line®,” with 23 ships operating 3 to 17 day voyages to the Bahamas, Caribbean, Mexican Riviera, Alaska, Hawaii, Canada, New England, Europe, Bermuda, Tahiti and Fiji Islands. When Carnival wanted to highlight its brand they trusted MMT to produce the spectacular graphics seen in all locations, and ended up loving the quality of the vinyl, the depth of color, durability and warranty. The strong three-dimensional visuals that MMT created were eye catching and Carnival Cruise Line and passersby alike were impressed.
 
-![image](../../assets/img/carnival-img2.jpg "some image")
-![image](../../assets/img/carnival-img3.jpg "some image")
-![image](../../assets/img/carnival-img4.jpg "some image")
+![image](../../assets/img/carnival-img2.jpg "Carnival Cruise")
+![image](../../assets/img/carnival-img3.jpg "Carnival Cruise")
+![image](../../assets/img/carnival-img4.jpg "Carnival Cruise")

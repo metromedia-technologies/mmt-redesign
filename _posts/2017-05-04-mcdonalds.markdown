@@ -6,6 +6,11 @@ description: "Apple cinnamon walnut oatmeal"
 class: flex-col-1
 img: assets/img/mcd-shelter-img1.jpg
 categories: transit
+metadesc: McDonald's transit campaign for the launch of their new menu item, Apple cinnamon walnut oatmeal.
+twimage: mcd-shelter-img1
+fbtitle: Metromedia Technologies - McDonald's Transit
+fburl: http://mmt.com/transit/mcdonalds/
+fbimage: mcd-shelter-img1
 ---
 ![image](../../assets/img/mcd-hero.jpg "McDonalds hero image")
 

@@ -6,6 +6,11 @@ description: "Dinosaurs Alive"
 class: flex-col-1
 img: assets/img/cedarpoint-img1.jpg
 categories: prop
+metadesc: Cedar Fair Company Dinosaurs Alive
+twimage: cedarpoint-img1
+fbtitle: Metromedia Technologies - Dinosaurs Alive
+fburl: http://mmt.com/prop/cedar-point/
+fbimage: cedarpoint-img1
 ---
 ![image](../../assets/img/cedarpoint-hero.jpg "Cedar Point Hero")
 

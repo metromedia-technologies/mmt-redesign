@@ -6,6 +6,11 @@ description: "Amazing Spider-man 2"
 class: flex-col-1
 img: assets/img/spiderman-img1.jpg
 categories: day-night
+metadesc: Spectacular day/night bulletins for the launch of Amazing Spider-Man 2.
+twimage: spiderman-img1
+fbtitle: Metromedia Technologies - Spider-Man
+fburl: http://mmt.com/day-night/spiderman/
+fbimage: spiderman-img1
 ---
 <span>S</span>pider-Man’s greatest battle begins on these EL-backed bulletins in both New York City and Los Angeles! Through a design collaboration with the creative agency and MMT’s own pre-production artists, this electrifying design comes to life at night when Electro enters the scene! Using electro-luminescent panels and MMT’s proprietary double-sided printing, Spider-man’s epic battle shines brightly in both day and night!
 

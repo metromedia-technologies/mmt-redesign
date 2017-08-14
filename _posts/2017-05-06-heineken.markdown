@@ -6,6 +6,11 @@ description: "Presenting the star bottle"
 class: flex-col-2
 img: assets/img/heineken-img1.jpg
 categories: transit
+metadesc: Heineken bus wraps for the launch of their new star bottle design.
+twimage: heineken-img1
+fbtitle: Metromedia Technologies - Heineken
+fburl: http://mmt.com/transit/heineken/
+fbimage: heineken-img1
 ---
 
 ![image](../../assets/img/heineken-hero.jpg "Heineken Hero")

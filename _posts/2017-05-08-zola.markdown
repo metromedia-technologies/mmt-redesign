@@ -6,6 +6,11 @@ description: "Coconut water"
 class: flex-col-1
 img: assets/img/zola-img3.jpg
 categories: transit
+metadesc: Zola Coconut Water vehicle wrap.
+twimage: zola-img3
+fbtitle: Metromedia Technologies - Zola
+fburl: http://mmt.com/transit/zola/
+fbimage: zola-img3
 ---
 ![image](../../assets/img/zola-hero.jpg "Zola hero image")
 

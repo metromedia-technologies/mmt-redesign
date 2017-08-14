@@ -6,5 +6,10 @@ description: "24 Legacy"
 class: flex-col-2
 img: assets/img/fox-img1.jpg
 categories: bulletin
+metadesc: Double sided back-lit bulletins for Fox's 24 Legacy.
+twimage: fox-img1
+fbtitle: Metromedia Technologies - Fox's 24 Legacy
+fburl: http://mmt.com/bulletin/fox/
+fbimage: fox-img1
 ---
 <span>D</span>riving down Sunset Blvd. there are many sights to see. One thing that may stand out are these giant back-lit bulletins. MMT prints these using a proprietary paint process in a double sided format. This paint process offers a large gamut and the ability to maintain color consistency whether the product is back-lit or front-lit. For a product that lasts MMT has you covered.

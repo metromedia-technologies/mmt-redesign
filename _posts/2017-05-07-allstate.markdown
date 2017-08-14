@@ -6,6 +6,11 @@ description: "80 year anniversary"
 class: flex-col-1
 img: assets/img/allstate-img1.jpg
 categories: day-night
+metadesc: Allstate day/night bulletin celebrating their 80 year anniversary.
+twimage: allstate-img1
+fbtitle: Metromedia Technologies - Allstate
+fburl: http://mmt.com/day-night/allstate/
+fbimage: allstate-img1
 ---
 <span>A</span>llstate came to MMT looking for innovative ideas for their billboard campaign. MMT combined its patented backlit vinyl printing with
 electroluminescent technology and created what was at the time the biggest totally-covered EL-backlit board in the world. A few short months later it was beat out by another project done by MMT for Jeep. MMT’s patented day and night backlight process combines creativity, technology, and electricity to transform any image.
