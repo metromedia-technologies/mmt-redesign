@@ -14,7 +14,7 @@ fbimage: wellsfargo-img1
 ---
 ![image](../../assets/img/wellsfargo-hero.jpg "Wells Fargo")
 
-<span>M</span>MT prodcued these eye-catching bulletins for Wells Fargo’s ad campaign to show people that they have borrowing options. With the help of their well-known horse-and-carriage logo and the legendary Lucy & Desi, they got their point across.
+<span>M</span>MT prodcued these eye-catching bulletins for Wells Fargo’s ad campaign to show people that they have borrowing options. With the help of their well-known stage coach logo and the legendary Lucy & Desi, they got their point across.
 There’s only one choice in quality bulletins when it comes to Out of Home advertising. Call your MMT Rep today!
 
 ![image](../../assets/img/wellsfargo-img2.jpg "Wells Fargo")

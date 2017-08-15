@@ -14,7 +14,7 @@ fbimage: super-bowl-img1
 ---
 ![image](../../assets/img/pepsi-hero.jpg "Pepsi hero")
 
-<span>I</span>n preparation for Super Bowl XLVIII, held at MetLife Stadium in New Jersey, Metromedia Technologies partnered with Pepsi to take over New York City. MMT Produced a variety of outdoor ads including building wraps, banners, and billboards. Printing multiple separate banners that hang next to each other requires color calibration across printing devices. Using G7 practices and calibrations MMT can hold color consistency from machine to machine, and substrate to substrate.
+<span>I</span>n preparation for Super Bowl XLVIII, held at MetLife Stadium in New Jersey, Metromedia Technologies partnered with Pepsi to take over New York City. MMT produced a variety of outdoor ads including building wraps, banners, and billboards. Printing multiple separate banners that hang next to each other requires color calibration across printing devices. Using G7 practices and calibrations MMT can hold color consistency from machine to machine, and substrate to substrate.
 
 ![image](../../assets/img/super-bowl-img4.jpg "Pepsi Bulletin")
 ![image](../../assets/img/pepsi-img1.jpg "Pepsi Bulletin")

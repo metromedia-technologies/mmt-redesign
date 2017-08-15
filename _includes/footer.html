@@ -20,8 +20,7 @@
       <div class="social">
         {% for social in site.data.social %}
           <a class="social__link" href="{{ social.url }}">
-            <!-- <img src="{{ site.url }}{{ site.baseurl }}assets/img/{{ social.icon }}" alt="{{ social.alt }}"> -->
-            <img src="{{ social.icon }}" alt="{{ social.alt }}">
+            <img src="{{ site.url }}{{ site.baseurl }}assets/img/{{ social.icon }}" alt="{{ social.alt }}">
           </a>
         {% endfor %}
       </div>

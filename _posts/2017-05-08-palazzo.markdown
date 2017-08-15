@@ -16,7 +16,7 @@ fbimage: palazzo-img1
 
 <span>P</span>alazzo is one of the top Las Vegas luxury hotels, setting new standards with Five-Diamond luxury premier suites in Las Vegas. When Palazzo’s
 South wing was to be converted into a high-priced luxury residential complex, the developer wanted people passing by to see what the finished
-building would look like. So they chose MMT to produce 87,000 square feet of large-format graphics of the completed building for display in
+building would look like. They chose MMT to produce 87,000 square feet of large-format graphics of the completed building for display in
 front of the construction site.
 
 ![image](../../assets/img/palazzo-img2.jpg "Palazzo")
