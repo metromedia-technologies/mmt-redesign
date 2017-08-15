@@ -3,7 +3,8 @@ module.exports = {
     p1: "./_src/page1.js",
     p2: "./_src/page2.js",
     p3: "./_src/page3.js",
-    p4: "./_src/page4.js"
+    p4: "./_src/page4.js",
+    p5: "./_src/page5.js"
   },
   output: {
       path: __dirname + "/assets/js",

@@ -31,12 +31,6 @@ export default (($) => {
     if(isScrolledIntoView($('#efficiency-text'), ($(window).height() / 3))) {
       $('#efficiency-text').removeClass('about-right--hide');
     }
-    if(isScrolledIntoView($('#oneprint-image'), ($(window).height() / 3))) {
-      $('#oneprint-image').removeClass('about-right--hide');
-    }
-    if(isScrolledIntoView($('#oneprint-text'), ($(window).height() / 3))) {
-      $('#oneprint-text').removeClass('about-left--hide');
-    }
   });
 
   function isScrolledIntoView(elem, offsetDistance) {
