@@ -22,8 +22,8 @@ fbimage: home-image-social
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous">
 </script>
-<script src="https://www.youtube.com/iframe_api"></script>
-<script>
+<script defer src="https://www.youtube.com/iframe_api"></script>
+<script defer>
 var player;
 
 function onYouTubeIframeAPIReady() {
@@ -81,4 +81,4 @@ function onPlayerStateChange(event) {
     }
 }
 </script>
-<script src="{{ site.url }}{{ site.baseurl }}assets/js/p1.entry.chunk.js"></script>
+<script defer src="{{ site.url }}{{ site.baseurl }}assets/js/p1.entry.chunk.js"></script>
