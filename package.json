@@ -8,7 +8,7 @@
     "temp": "babel _js -d assets/js/ && jekyll serve -w",
     "start": "jekyll serve -w",
     "pack": "webpack --optimize-minimize",
-    "build": "webpack --optimize-minimize && jekyll build --destination ../metromedia-technologies.github.stage/"
+    "build": "webpack --optimize-minimize && jekyll build --destination ../mmt.com.stage/"
   },
   "repository": {
     "type": "git",

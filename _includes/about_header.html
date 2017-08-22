@@ -4,27 +4,27 @@
     <ul class="mobile-nav__list">
       <li class="mobile-nav__item">
         <span class="mobile-nav__icon">
-          <img src="{{ site.url }}{{ site.baseurl }}assets/img/Gallery.svg" height="30px" width="30px" alt="Work">
+          <img src="{{ site.url }}{{ site.baseurl }}assets/img/Gallery.svg" height="30px" width="30px" alt="{{ site.data.site_nav[0].text }}">
         </span>
-        <a id="work-link" href="{{ site.url }}{{ site.baseurl }}categories/transit/">work</a>
+        <a id="work-link" href="{{ site.url }}{{ site.baseurl }}{{ site.data.site_nav[0].url }}">{{ site.data.site_nav[0].text }}</a>
       </li>
       <li class="mobile-nav__item">
         <span class="mobile-nav__icon">
-          <img src="{{ site.url }}{{ site.baseurl }}assets/img/Report.svg" height="30px" width="30px" alt="About MMT">
+          <img src="{{ site.url }}{{ site.baseurl }}assets/img/Report.svg" height="30px" width="30px" alt="{{ site.data.site_nav[1].text }}">
         </span>
-        <a id="about-link" href="{{ site.url }}{{ site.baseurl }}about">about</a>
+        <a id="about-link" href="{{ site.url }}{{site.baseurl}}{{ site.data.site_nav[1].url }}">{{ site.data.site_nav[1].text }}</a>
       </li>
       <li class="mobile-nav__item">
         <span class="mobile-nav__icon">
-          <img src="{{ site.url }}{{ site.baseurl }}assets/img/Upload.svg" height="30px" width="30px" alt="Upload Artwork">
+          <img src="{{ site.url }}{{ site.baseurl }}assets/img/Upload.svg" height="30px" width="30px" alt="{{ site.data.site_nav[2].text }}">
         </span>
-        <a id="upload-link" href="#">upload artwork</a>
+        <a id="upload-link" href="{{ site.data.site_nav[2].url }}">{{ site.data.site_nav[2].text }}</a>
       </li>
       <li class="mobile-nav__item">
         <span class="mobile-nav__icon">
           <img src="{{ site.url }}{{ site.baseurl }}assets/img/Portfolio.svg" height="30px" width="30px" alt="Careers">
         </span>
-        <a id="work-link" href="{{ site.url }}{{ site.baseurl }}careers">careers</a>
+        <a id="work-link" href="{{ site.url }}{{site.baseurl}}{{ site.data.site_nav[3].url }}">{{ site.data.site_nav[3].text }}</a>
       </li>
     </ul>
     <ul class="categories-nav mobile-nav__list">
@@ -33,7 +33,7 @@
       <li class="mobile-nav__item"><a href="{{ site.url }}{{ site.baseurl }}{{category.link}}">{{category.name}}</a></li>
       {% endfor %}
     </ul>
-    <a class="mobile-login" href="#">login</a>
+    <a class="mobile-login" href="{{ site.data.site_nav[4].url }}">{{ site.data.site_nav[4].text }}</a>
   </div>
 </div>
 <header class="header">

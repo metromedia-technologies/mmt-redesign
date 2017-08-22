@@ -5,10 +5,10 @@
   url: about
 
 - text: upload artwork
-  url: http://107.191.33.30:9026/upload
+  url: https://orders.mmt.com/upload
 
 - text: careers
   url: careers
 
 - text: login
-  url: http://orders.mmt.com/scripts/sweb.dll/search
+  url: https://orders.mmt.com
