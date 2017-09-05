@@ -43,12 +43,6 @@ TODO: Describe the installation process for Jekyll and Ruby
 
 TODO: Remove the dependency on Jquery for vanilla JS
 
-TODO: Optimize all images
-
-TODO: Add SEO meta tags and Social Media tags
-
 TODO: Refactor CSS to better adhere to BEM specification
-
-TODO: Add new image to footer category Wooster
 
 TODO: Add swipe functionality for mobile
