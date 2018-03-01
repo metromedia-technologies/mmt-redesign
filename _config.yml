@@ -28,8 +28,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # For Production
 # baseurl: "/" # For Production on github
 # url: "localhost:4000" # the base hostname & protocol for development
-# url: "http://mmt.com" # the base hostname & protocol for production
-url: "https://metromedia-technologies.github.io/" # the base hostname & protocol for production on github
+url: "http://mmt.com" # the base hostname & protocol for production
+# url: "https://metromedia-technologies.github.io/" # the base hostname & protocol for production on github
 
 twitter_username: sams_joseph
 github_username:  sams-joseph

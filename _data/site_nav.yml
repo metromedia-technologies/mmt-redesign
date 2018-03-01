@@ -5,13 +5,16 @@
   url: about
 
 - text: visen
-  url: visen 
+  url: visen
 
-- text: upload artwork
+- text: upload
   url: https://orders.mmt.com/upload
 
 - text: careers
   url: careers
+
+- text: contact
+  url: contact
 
 - text: login
   url: https://orders.mmt.com

@@ -1,48 +1,5 @@
 <section class="hero">
-  <div class="mobile-nav__container">
-    <div class="mobile-nav">
-      <div class="mobile-nav__close-btn"></div>
-      <ul class="mobile-nav__list">
-        <li class="mobile-nav__item">
-          <span class="mobile-nav__icon">
-            <img src="{{ site.url }}{{ site.baseurl }}assets/img/Gallery.svg" height="30px" width="30px" alt="Work">
-          </span>
-          <a id="work-link" href="{{ site.url }}{{ site.baseurl }}{{ site.data.site_nav[0].url }}">work</a>
-        </li>
-        <li class="mobile-nav__item">
-          <span class="mobile-nav__icon">
-            <img src="{{ site.url }}{{ site.baseurl }}assets/img/Report.svg" height="30px" width="30px" alt="About">
-          </span>
-          <a id="about-link" href="{{ site.url }}{{site.baseurl}}{{ site.data.site_nav[1].url }}">about</a>
-        </li>
-        <li class="mobile-nav__item">
-          <span class="mobile-nav__icon">
-            <img src="{{ site.url }}{{ site.baseurl }}assets/img/Visen.svg" height="30px" width="30px" alt="VISEN">
-          </span>
-          <a id="about-link" href="{{ site.url }}{{site.baseurl}}{{ site.data.site_nav[2].url }}">visen</a>
-        </li>
-        <li class="mobile-nav__item">
-          <span class="mobile-nav__icon">
-            <img src="{{ site.url }}{{ site.baseurl }}assets/img/Upload.svg" height="30px" width="30px" alt="Upload">
-          </span>
-          <a id="upload-link" href="{{ site.data.site_nav[3].url }}">upload artwork</a>
-        </li>
-        <li class="mobile-nav__item">
-          <span class="mobile-nav__icon">
-            <img src="{{ site.url }}{{ site.baseurl }}assets/img/Portfolio.svg" height="30px" width="30px" alt="Careers">
-          </span>
-          <a id="work-link" href="{{ site.data.site_nav[4].url }}">careers</a>
-        </li>
-      </ul>
-      <ul class="categories-nav mobile-nav__list">
-        <h3>Categories</h3>
-        {% for category in site.data.categories %}
-        <li class="mobile-nav__item"><a href="{{category.link}}">{{category.name}}</a></li>
-        {% endfor %}
-      </ul>
-      <a class="mobile-login" href="{{ site.data.site_nav[5].url }}">login</a>
-    </div>
-  </div>
+  {% include mobile_nav.html %}
   <div class="video-background">
     <div class="video-foreground">
       <div id="video-placeholder"></div>
@@ -57,7 +14,9 @@
       <nav class="nav">
         <ul class="nav__list">
           {% for link in site.data.site_nav %}
-            <li class="nav__item"><a {% if link.text == 'login' %}class="link__btn--small"{% endif %} href="{{ link.url }}">{{ link.text }}</a></li>
+          <li class="nav__item">
+            <a {% if link.text=='login' %}class="link__btn--small" {% endif %} href="{{ link.url }}">{{ link.text }}</a>
+          </li>
           {% endfor %}
         </ul>
         <div class="nav__mobile-toggle"></div>
@@ -68,11 +27,13 @@
         <h1 class="headline__heading">{{ site.data.hero.heading }}</h1>
         <h3 class="headline__descript">{{ site.data.hero.body }}</h3>
         <div class="headline__play-me">
-          <svg class='video-play-btn' x="0px" y="0px" viewBox="-270 372 50 50" style="enable-background:new -270 372 50 50;" width="50" height="50">
+          <svg class='video-play-btn' x="0px" y="0px" viewBox="-270 372 50 50" style="enable-background:new -270 372 50 50;" width="50"
+            height="50">
             <g>
-  	          <path fill="#ffffff" d="M-245,374c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S-257.7,374-245,374 M-245,372 c-13.8,0-25,11.2-25,25s11.2,25,25,25s25-11.2,25-25S-231.2,372-245,372L-245,372z"/>
+              <path fill="#ffffff" d="M-245,374c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S-257.7,374-245,374 M-245,372 c-13.8,0-25,11.2-25,25s11.2,25,25,25s25-11.2,25-25S-231.2,372-245,372L-245,372z"
+              />
             </g>
-            <polygon fill="#ffffff" points="-251.8,387 -251.8,407.6 -232.6,397.2 "/>
+            <polygon fill="#ffffff" points="-251.8,387 -251.8,407.6 -232.6,397.2 " />
             <image src="{{ site.url }}{{ site.baseurl }}assets/img/play-btn.png" width="40" height="50" />
           </svg>
           <span class="headline__label">watch our video</span>

@@ -1,0 +1,86 @@
+.contact-page
+  background: white
+  padding: 70px 0
+  position: relative
+  width: 100%
+
+  &__hero
+    background: linear-gradient(-45deg, rgba(59,62,71, 0.7), rgba(59,62,71, 0.5)), url('../img/contact.jpg')
+      position: center
+      repeat: no-repeat
+      size: cover
+    height: 40vw
+    max-height: 500px
+    position: relative
+    width: 100%
+
+  &__heading
+    color: $color-primary-0
+    font:
+      size: 5vw
+      weight: 100
+    margin: 0
+    padding: 0
+    position: relative
+    text-align: center
+    top: 50%
+    transform: translateY(-50%)
+
+.locations
+  .container
+    padding: 70px 0 0 0
+
+  @media(max-width: 933px)
+    .col
+      float: none
+      margin-bottom: 40px
+      flex: 0 0 50%
+
+  @media(max-width: 638px)
+    .col
+      float: none
+      margin-bottom: 40px
+      flex: 0 0 100%
+
+      &:last-child
+        margin-bottom: 0
+
+.location
+  height: 100%
+  padding: 0 20px
+  text-align: center
+  width: 100%
+
+  &__icon
+    height: 70px
+    margin: 0 auto 30px auto
+    width: 70px
+
+  &__heading
+    color: $color-complement
+
+  &__body
+    color: $rgba-grey-dark
+    font:
+      size: 16px
+      weight: 400
+    line-height: 1.5
+    margin: 0 0 30px 0
+    padding: 0
+
+  &__name
+    color: #6D7179
+    display: block
+    line-height: 1.5
+    font:
+      size: 18px
+      weight: 300
+
+    a
+      color: $color-complement
+
+  &__accent
+    color: $color-complement
+
+  &__contact-name
+    font-weight: 600
