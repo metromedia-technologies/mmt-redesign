@@ -7,11 +7,11 @@ module.exports = {
     p5: "./_src/page5.js"
   },
   output: {
-      path: __dirname + "/assets/js",
-      filename: "[name].entry.chunk.js"
+    path: __dirname + "/assets/js",
+    filename: "[name].entry.chunk.js"
   },
   module: {
-    loaders: [{
+    rules: [{
       test: /\.js$/,
       exclude: /node_modules/,
       loader: 'babel-loader'

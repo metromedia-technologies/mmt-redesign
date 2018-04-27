@@ -1,20 +1,20 @@
 - text: work
-  url: categories/transit/
+  url: /categories/transit/
 
 - text: about
-  url: about
+  url: /about
 
 - text: visen
-  url: visen
+  url: /visen
 
 - text: upload
   url: https://orders.mmt.com/upload
 
 - text: careers
-  url: careers
+  url: /careers
 
 - text: contact
-  url: contact
+  url: /contact
 
 - text: login
   url: https://orders.mmt.com
